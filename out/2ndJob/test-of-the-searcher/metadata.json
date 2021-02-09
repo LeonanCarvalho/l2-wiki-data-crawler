@@ -1,0 +1,218 @@
+{
+    "title": "Test of the Searcher",
+    "routeUri": "quests\/test-of-the-searcher\/{lang}",
+    "routeName": "test-of-the-searcher",
+    "router": "routers@TestoftheSearcher",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf, Dwarf",
+        "class": "Rogue, Elven Scout, Assassin, Scavenger",
+        "start_location": "Hunters Village \/ Aden Territory",
+        "start_npc": "Luther",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "119472",
+                "y": "77835",
+                "name": "Master Luther",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Master Luther in the Warrior Guild in Hunters Village."
+        },
+        {
+            "props": {
+                "x": "20943",
+                "y": "171358",
+                "name": "Captain Alex",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Alex in Floran Village."
+        },
+        {
+            "props": {
+                "x": "10699",
+                "y": "171474",
+                "name": "Militiaman Leirynn",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Militiaman Leirynn near Floran Village."
+        },
+        {
+            "props": {
+                "x": "10864",
+                "y": "156048",
+                "name": "Floran Agricultural Area",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Go to Floran Agricultural Area, hunt Delu Lizardman Shaman, collect Delu Totem \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "10699",
+                "y": "171474",
+                "name": "Militiaman Leirynn",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Militiaman Leirynn near Floran Village."
+        },
+        {
+            "props": {
+                "x": "28448",
+                "y": "174080",
+                "name": "Delu Chief Kalkis",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Go west from Floran Village, kill quest monster Delu Chief Kalkis, get Chief Kalki's Fang and Strange Map ."
+        },
+        {
+            "props": {
+                "x": "10699",
+                "y": "171474",
+                "name": "Militiaman Leirynn",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Militiaman Leirynn near Floran Village."
+        },
+        {
+            "props": {
+                "x": "20943",
+                "y": "171358",
+                "name": "Captain Alex",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Alex in Floran Village."
+        },
+        {
+            "props": {
+                "x": "-15443",
+                "y": "124913",
+                "name": "Drunkard Borys",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Drunkard Borys in the middle of the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-61717",
+                "y": "75401",
+                "name": "Grocer Tyra",
+                "linktext": "Step 10",
+                "loc": ""
+            },
+            "text": "Talk to Grocer Tyra in Spider Nest."
+        },
+        {
+            "props": {
+                "x": "55504",
+                "y": "21664",
+                "name": "Sea of Spores",
+                "linktext": "Step 11",
+                "loc": ""
+            },
+            "text": "Go to the Sea of Spores, to hunt: Giant Fungus, until you\u2019ve collected Red Spore Dust \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "-61717",
+                "y": "75401",
+                "name": "Grocer Tyra",
+                "linktext": "Step 12",
+                "loc": ""
+            },
+            "text": "Talk to Grocer Tyra in Spider Nest."
+        },
+        {
+            "props": {
+                "x": "-15443",
+                "y": "124913",
+                "name": "Drunkard Borys",
+                "linktext": "Step 13",
+                "loc": "city"
+            },
+            "text": "Talk to Drunkard Borys in the middle of the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-17305",
+                "y": "209742",
+                "name": "Escort Jax",
+                "linktext": "Step 14",
+                "loc": ""
+            },
+            "text": "Talk to Escort Jax at the southern entrance to the Wasteland."
+        },
+        {
+            "props": {
+                "x": "50568",
+                "y": "152408",
+                "name": "Execution Grounds",
+                "linktext": "Step 15.1",
+                "loc": ""
+            },
+            "text": "Get the pieces of the map: Go to the Execution Grounds, hunt Hangman Tree, until you have Torn Map Piece \u00a0\u2014\u00a04 pcs., they will turn into Makel's Map . Go to Death Pass, hunt Road Scavenger, until you have Torn Map Piece \u00a0\u2014\u00a04 pcs., they will turn into Solt's Map ."
+        },
+        {
+            "props": {
+                "x": "-17305",
+                "y": "209742",
+                "name": "Escort Jax",
+                "linktext": "Step 16",
+                "loc": ""
+            },
+            "text": "Talk to Escort Jax at the southern entrance to the Wasteland."
+        },
+        {
+            "props": {
+                "x": "10133",
+                "y": "157155",
+                "name": "Tree",
+                "linktext": "Step 17",
+                "loc": ""
+            },
+            "text": "Explore the tree on the Plains of Dion, get Rusted Key ."
+        },
+        {
+            "props": {
+                "x": "10133",
+                "y": "157155",
+                "name": "Strong Wooden Chest",
+                "linktext": "Step 18",
+                "loc": ""
+            },
+            "text": "Explore the Strong Wooden Chest, get the Gold Bar \u00a0\u2014\u00a020 pcs."
+        },
+        {
+            "props": {
+                "x": "20943",
+                "y": "171358",
+                "name": "Captain Alex",
+                "linktext": "Step 19",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Alex in Floran Village."
+        },
+        {
+            "props": {
+                "x": "119472",
+                "y": "77835",
+                "name": "Master Luther",
+                "linktext": "Step 20",
+                "loc": "city"
+            },
+            "text": "Talk to Master Luther in the Warrior Guild in Hunters Village and get the reward."
+        }
+    ]
+}

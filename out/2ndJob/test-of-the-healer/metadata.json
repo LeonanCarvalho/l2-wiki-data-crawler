@@ -1,0 +1,251 @@
+{
+    "title": "Test of the Healer",
+    "routeUri": "quests\/test-of-the-healer\/{lang}",
+    "routeName": "test-of-the-healer",
+    "router": "routers@TestoftheHealer",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf",
+        "class": "Human Knight, Cleric, Elven Knight, Elven Oracle",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Bandellos",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "85829",
+                "y": "148365",
+                "name": "Priest Bandellos",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Bandellos in Einhasad Temple in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "-93275",
+                "y": "147654",
+                "name": "Perrin",
+                "linktext": "Step 2",
+                "loc": ""
+            },
+            "text": "Talk to Perrin on the eastern hill near Gludin Harbor."
+        },
+        {
+            "props": {
+                "x": "-93275",
+                "y": "147654",
+                "name": "Perrin",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Quest monster Tatoma will appear. Kill it."
+        },
+        {
+            "props": {
+                "x": "-93275",
+                "y": "147654",
+                "name": "Perrin",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Talk to Perrin on the eastern hill near Gludin Harbor once again."
+        },
+        {
+            "props": {
+                "x": "-92310",
+                "y": "154223",
+                "name": "Allana",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Talk to Allana on the western hill near Gludin Harbor."
+        },
+        {
+            "props": {
+                "x": "-28103",
+                "y": "120634",
+                "name": "Gupu",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Talk to Father Gupu to the west from the Town of Gludio, you have 2 options: Map"
+        },
+        {
+            "text": "Talk to Father Gupu once again and refuse to pay. Then you may skip steps 8-10."
+        },
+        {
+            "props": {
+                "x": "-28103",
+                "y": "120634",
+                "name": "Gupu",
+                "linktext": "Step 7",
+                "loc": ""
+            },
+            "text": "Talk to Father Gupu once again and agree to donate 1,000 adena. Please note that if you pay 1,000 adena, it'll be added to your quest reward. You will also get a hint where to find Saint Kristin."
+        },
+        {
+            "props": {
+                "x": "-21101",
+                "y": "178989",
+                "name": "Windy Shaoring",
+                "linktext": "Step 8",
+                "loc": ""
+            },
+            "text": "Talk to Windy Shaoring near Ant Nest."
+        },
+        {
+            "props": {
+                "x": "-28103",
+                "y": "120634",
+                "name": "Gupu",
+                "linktext": "Step 9",
+                "loc": ""
+            },
+            "text": "Talk to Father Gupu to the west from the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-13440",
+                "y": "122643",
+                "name": "Master Sorius",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Talk to Master Sorius in the Warrior Guild in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-97611",
+                "y": "106574",
+                "name": "Daurin Hammercrush",
+                "linktext": "Step 11",
+                "loc": ""
+            },
+            "text": "Talk to Daurin Hammercrush in Orc Barracks."
+        },
+        {
+            "props": {
+                "x": "-97611",
+                "y": "106574",
+                "name": "Leto Lizardmen",
+                "linktext": "Step 12",
+                "loc": ""
+            },
+            "text": "2 quest monsters will appear: Leto Lizardman Agent and Leto Lizardman Captain. Kill them and get 1st Secret Letter ."
+        },
+        {
+            "props": {
+                "x": "-97611",
+                "y": "106574",
+                "name": "Daurin Hammercrush",
+                "linktext": "Step 13",
+                "loc": ""
+            },
+            "text": "Talk to Daurin Hammercrush in Orc Barracks."
+        },
+        {
+            "props": {
+                "x": "-44358",
+                "y": "79442",
+                "name": "Mysterious Dark Elf",
+                "linktext": "Step 14",
+                "loc": ""
+            },
+            "text": "Talk to the Mysterious Dark Elf at the Altar of Rites."
+        },
+        {
+            "props": {
+                "x": "-44358",
+                "y": "79442",
+                "name": "Leto Lizardmen",
+                "linktext": "Step 15",
+                "loc": ""
+            },
+            "text": "2 quest mobs will appear: Leto Lizardman Assassin. Kill them and get 2nd Secret Letter ."
+        },
+        {
+            "props": {
+                "x": "-44358",
+                "y": "79442",
+                "name": "Mysterious Dark Elf",
+                "linktext": "Step 16",
+                "loc": ""
+            },
+            "text": "Talk to the Mysterious Dark Elf at the Altar of Rites."
+        },
+        {
+            "props": {
+                "x": "-44358",
+                "y": "79442",
+                "name": "Leto Lizardmen",
+                "linktext": "Step 17",
+                "loc": ""
+            },
+            "text": "3 quest mobs will appear: Leto Lizardman Sniper. Kill them and get 3rd Secret Letter ."
+        },
+        {
+            "props": {
+                "x": "-44358",
+                "y": "79442",
+                "name": "Mysterious Dark Elf",
+                "linktext": "Step 18",
+                "loc": ""
+            },
+            "text": "Talk to Mysterious Dark Elf once again."
+        },
+        {
+            "props": {
+                "x": "-44358",
+                "y": "79442",
+                "name": "Leto Lizardmen",
+                "linktext": "Step 19",
+                "loc": ""
+            },
+            "text": "2 quest monsters will appear: Leto Lizardman Wizard and Leto Lizardman Lord. Kill them and get 4th Secret Letter ."
+        },
+        {
+            "props": {
+                "x": "-44358",
+                "y": "79442",
+                "name": "Mysterious Dark Elf",
+                "linktext": "Step 20",
+                "loc": ""
+            },
+            "text": "Talk to Mysterious Dark Elf once again."
+        },
+        {
+            "props": {
+                "x": "-53664",
+                "y": "85862",
+                "name": "Saint Kristin",
+                "linktext": "Step 21-22",
+                "loc": ""
+            },
+            "text": "Talk to Saint Kristina near the Altar of Rites. Please note that if after the dialogue with Saint Kristina the quest does not proceed, go back to the Altar of Rites and talk to Slein Shining Blade. He's located to the left from the Altar."
+        },
+        {
+            "props": {
+                "x": "-13440",
+                "y": "122643",
+                "name": "Master Sorius",
+                "linktext": "Step 23",
+                "loc": "city"
+            },
+            "text": "Talk to Master Sorius in the Warrior Guild in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "85829",
+                "y": "148365",
+                "name": "Priest Bandellos",
+                "linktext": "Step 24",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Bandellos in Einhasad Temple of the Town of Giran and get the reward."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Path of the Orc Raider",
+    "routeUri": "quests\/path-of-the-orc-raider\/{lang}",
+    "routeName": "path-of-the-orc-raider",
+    "router": "routers@PathoftheOrcRaider",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Orc",
+        "class": "Orc Fighter",
+        "start_location": "Orc Village \/ Schuttgart Territory",
+        "start_npc": "Karukia",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-45952",
+                "y": "-114496",
+                "name": "Karukia",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Prefect Karukia in the House of the King in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "-17369",
+                "y": "-121691",
+                "name": "Immortal Plateau, Northern Region",
+                "linktext": "Step 2",
+                "loc": ""
+            },
+            "text": "To to the Immortal Plateau, Northern Region, kill Goblin Tomb Raider Leader, then quest mobs Kuruka Ratman Captain will appear. Kill them to collect Kuruka Ratman Fang \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "-45952",
+                "y": "-114496",
+                "name": "Prefect Karukia",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Prefect Karukia in the House of the King in the Orc Village.Map"
+        },
+        {
+            "props": {
+                "x": "-74379",
+                "y": "83975",
+                "name": "Quest Monster Umbar Orc",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Go to the Spider Nest, hunt Quest Monster Umbar Orc, collect Head of Betrayer \u00a0\u2014\u00a02 pcs."
+        },
+        {
+            "props": {
+                "x": "-80472",
+                "y": "153407",
+                "name": "Kasman",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Prefect Kasman in Orc Guild in Gludin Village and get the reward."
+        },
+        {
+            "text": "When you a\u0441hieve level 20, talk to a Prefect High Osborn in Orc Guild in Gludin Village or to High Prefect Drikus in the Town of Gludio to become a Raider."
+        }
+    ]
+}

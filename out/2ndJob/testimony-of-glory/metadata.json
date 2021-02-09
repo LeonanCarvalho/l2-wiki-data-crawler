@@ -1,0 +1,168 @@
+{
+    "title": "Testimony of Glory",
+    "routeUri": "quests\/testimony-of-glory\/{lang}",
+    "routeName": "testimony-of-glory",
+    "router": "routers@TestimonyofGlory",
+    "properties": {
+        "level": "37+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Orc",
+        "class": "Raider, Monk, Orc Shaman",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Vokian",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "80399",
+                "y": "144254",
+                "name": "Vokian",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Prefect Vokian in the Orc Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "85391",
+                "y": "16228",
+                "name": "Ivory Tower Crater",
+                "linktext": "Step 2.1",
+                "loc": ""
+            },
+            "text": "Prove that you're worth to pass the trial: Go to Ivory Tower Crater, hunt Manashen Gargoyle, collect Manashen Shard \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "67933",
+                "y": "117045",
+                "name": "Death Pass",
+                "linktext": "Step 2.2",
+                "loc": ""
+            },
+            "text": "Go to the Death Pass, kill Guardian Basilisk and collect Guardian Basilisk Fang \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "-16526",
+                "y": "208032",
+                "name": "Wasteland",
+                "linktext": "Step 2.3",
+                "loc": ""
+            },
+            "text": "Go to the Wasteland, hunt Tyrant and Elder Tyrant, until you have Tyrant's Talons \u00a0\u2014\u00a010 pcs.."
+        },
+        {
+            "props": {
+                "x": "80399",
+                "y": "144254",
+                "name": "Vokian",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Prefect Vokian in the Orc Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "20000",
+                "y": "143108",
+                "name": "Gandi Chief Chianta",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Gandi Chief Chianta in Orc Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "80459",
+                "y": "144592",
+                "name": "Priest Manakia",
+                "linktext": "Step 5.1",
+                "loc": "city"
+            },
+            "text": "Collect 5 Scepters: Talk to Priest Manakia in the Orc Guild in the Town of Giran. Talk to Breka Chief Voltar in Breka's Stronghold, 2 monsters will appear: Pashika the Son Of Voltar and Vultus the Son Of Voltar. Destroy them. Talk to Breka Chief Voltar once again. Talk to Enku Chief Kepra near Hive Fortress, 2 quest mobs Enku Orc Prefect will appear, defeat them. Talk to Enku Chief Kepra once again. Talk to Prefect Kasman in Orc Guild in Gludin Village. Talk to Tunath Chief Harak nor far from the Forgotten Temple. Talk to Turek Chief Burai in Orc Barracks, 2 quest mobs will appear: Makum Bugbear Thug, kill them. Talk to Turek Chief Burai once again. Talk to Vuku Chief Driko near the Town of Gludio. Go to the Cruma Marshlands, hunt Marsh Stakato Drone, collect Marsh Stakato Drone Husk \u00a0\u2014\u00a030 pcs. Talk to Vuku Chief Driko near the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "20000",
+                "y": "143108",
+                "name": "Gandi Chief Chianta",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Gandi Chief Chianta in Orc Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "114306",
+                "y": "86573",
+                "name": "Hunters Valley",
+                "linktext": "Step 7.1",
+                "loc": "city"
+            },
+            "text": "Get the orc heads. Go to Hunters Valley, hunt Tamlin Orc, Tamlin Orc Archer, collect Tamlin Orc Head \u00a0\u2014\u00a030 pcs."
+        },
+        {
+            "props": {
+                "x": "67097",
+                "y": "68815",
+                "name": "Timak Outpost",
+                "linktext": "Step 7.2",
+                "loc": ""
+            },
+            "text": "Go to the Timak Outpost, hunt any Timak Orcs, until you have Timak Orc Head \u00a0\u2014\u00a020 pcs."
+        },
+        {
+            "props": {
+                "x": "20000",
+                "y": "143108",
+                "name": "Gandi Chief Chianta",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Gandi Chief Chianta in Orc Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "-45863",
+                "y": "-112621",
+                "name": "Priest Tanapi",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Tanapi in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "9987",
+                "y": "-88928",
+                "name": "Ragna Orcs",
+                "linktext": "Step 10",
+                "loc": ""
+            },
+            "text": "Go to Immortal Plateau, Northern Region, hunt Ragna Orc Prefect, Ragna Orc Priest. Quest monster Revenant of Tantos Chieftain will appear, kill it until you have Scepter of Tantos ."
+        },
+        {
+            "props": {
+                "x": "-45863",
+                "y": "-112621",
+                "name": "Priest Tanapi",
+                "linktext": "Step 11",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Tanapi in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "-46768",
+                "y": "-113610",
+                "name": "Kakai",
+                "linktext": "Step 12",
+                "loc": "city"
+            },
+            "text": "Talk to Pa'agrio Lord Kakai in the House of the King in the Orc Village and get the reward."
+        }
+    ]
+}

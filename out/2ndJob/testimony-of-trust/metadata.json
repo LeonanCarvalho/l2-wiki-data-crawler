@@ -1,0 +1,280 @@
+{
+    "title": "Testimony of Trust",
+    "routeUri": "quests\/testimony-of-trust\/{lang}",
+    "routeName": "testimony-of-trust",
+    "router": "routers@TestimonyofTrust",
+    "properties": {
+        "level": "37+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human",
+        "class": "Warrior, Human Knight, Rogue, Human Wizard, Cleric",
+        "start_location": "Town of Oren \/ Oren Territory",
+        "start_npc": "Hollint",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "83634",
+                "y": "52927",
+                "name": "High Priest Hollint",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to High Priest Hollint in Einhasad Temple in the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "44692",
+                "y": "52261",
+                "name": "Hierarch Asterios",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Hierarch Asterios in the Temple of the Elven Village."
+        },
+        {
+            "props": {
+                "x": "7476",
+                "y": "56470",
+                "name": "Elven Forest",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Go to Elven Forest, hunt Lirein and Lirein Elder, until Luelle of the Zephyr Winds appears. Kill her to get the Breath of Winds . Hunt Dryad and Dryad Elder, until Actea of Verdant Wilds appears. Kill her to get the Seed of Verdure ."
+        },
+        {
+            "props": {
+                "x": "44692",
+                "y": "52261",
+                "name": "Hierarch Asterios",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Hierarch Asterios in the Temple of the Elven Village."
+        },
+        {
+            "props": {
+                "x": "10775",
+                "y": "14190",
+                "name": "Great Hierarch Thifiell",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Great Hierarch Thifiell in Shilen Sanctum in the Dark Elf Village."
+        },
+        {
+            "props": {
+                "x": "17280",
+                "y": "146944",
+                "name": "Magister Clayton",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Clayton in Dark Elf Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "67872",
+                "y": "111440",
+                "name": "Death Pass",
+                "linktext": "Step 7.1",
+                "loc": ""
+            },
+            "sub": [
+                {
+                    "props": {
+                        "x": "67872",
+                        "y": "111440",
+                        "name": "Death Pass",
+                        "linktext": "Step 7.1",
+                        "loc": ""
+                    },
+                    "text": "Go to the Death Pass, hunt Guardian Basilisk, until you have Basilisk Plasma ."
+                },
+                {
+                    "props": {
+                        "x": "-9959",
+                        "y": "176184",
+                        "name": "Ant Nest",
+                        "linktext": "Step 7.2",
+                        "loc": ""
+                    },
+                    "text": "Go to the Ant Nest, hunt Ant Soldier, until you have Honey Dew ."
+                },
+                {
+                    "props": {
+                        "x": "5106",
+                        "y": "126916",
+                        "name": "Cruma Marshlands",
+                        "linktext": "Step 7.3",
+                        "loc": ""
+                    },
+                    "text": "Go to the Cruma Marshlands, hunt Marsh Stakato, until you have Stakato Ichor ."
+                }
+            ],
+            "text": "Collect the items: Go to the Death Pass, hunt Guardian Basilisk, until you have Basilisk Plasma . Go to the Ant Nest, hunt Ant Soldier, until you have Honey Dew . Go to the Cruma Marshlands, hunt Marsh Stakato, until you have Stakato Ichor ."
+        },
+        {
+            "props": {
+                "x": "17280",
+                "y": "146944",
+                "name": "Magister Clayton",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Clayton in Dark Elf Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "10775",
+                "y": "14190",
+                "name": "Great Hierarch Thifiell",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Great Hierarch Thifiell in Shilen Sanctum in the Dark Elf Village."
+        },
+        {
+            "props": {
+                "x": "83634",
+                "y": "52927",
+                "name": "High Priest Hollint",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Talk to High Priest Hollint in Einhasad Temple in the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "83183",
+                "y": "53715",
+                "name": "Cardinal Seresin",
+                "linktext": "Step 11",
+                "loc": "city"
+            },
+            "text": "Talk to Cardinal Seresin near the Temple of the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "-46768",
+                "y": "-113610",
+                "name": "Kakai",
+                "linktext": "Step 12",
+                "loc": "city"
+            },
+            "text": "Talk to Pa'agrio Lord Kakai in the House of the King in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "80459",
+                "y": "144592",
+                "name": "Priest Manakia",
+                "linktext": "Step 13",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Manakia in the Orc Guild in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "67872",
+                "y": "111440",
+                "name": "Death Pass",
+                "linktext": "Step 14",
+                "loc": ""
+            },
+            "text": "Go to the Death Pass, hunt Windsus, until you have Parasite of Lota ."
+        },
+        {
+            "props": {
+                "x": "80459",
+                "y": "144592",
+                "name": "Priest Manakia",
+                "linktext": "Step 15",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Manakia in the Orc Guild in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "-46768",
+                "y": "-113610",
+                "name": "Kakai",
+                "linktext": "Step 16",
+                "loc": "city"
+            },
+            "text": "Talk to Pa'agrio Lord Kakai in the House of the King in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "116226",
+                "y": "-178529",
+                "name": "Iron Gate's Lockirin",
+                "linktext": "Step 17",
+                "loc": "city"
+            },
+            "text": "Talk to Iron Gate's Lockirin in the Chief Hall in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "10580",
+                "y": "118027",
+                "name": "Maestro Nikola",
+                "linktext": "Step 18",
+                "loc": "city"
+            },
+            "text": "Talk to Maestro Nikola in the Cruma Marshlands."
+        },
+        {
+            "props": {
+                "x": "14368",
+                "y": "114176",
+                "name": "Cruma Tower",
+                "linktext": "Step 19",
+                "loc": "city"
+            },
+            "text": "Go to Cruma Tower, hunt Porta, until you have Heartstone of Porta ."
+        },
+        {
+            "props": {
+                "x": "10580",
+                "y": "118027",
+                "name": "Maestro Nikola",
+                "linktext": "Step 20",
+                "loc": "city"
+            },
+            "text": "Talk to Maestro Nikola in the Cruma Marshlands."
+        },
+        {
+            "props": {
+                "x": "116226",
+                "y": "-178529",
+                "name": "Iron Gate's Lockirin",
+                "linktext": "Step 21",
+                "loc": "city"
+            },
+            "text": "Talk to Iron Gate's Lockirin in the Chief Hall in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "83634",
+                "y": "52927",
+                "name": "High Priest Hollint",
+                "linktext": "Step 22",
+                "loc": "city"
+            },
+            "text": "Talk to High Priest Hollint in Einhasad Temple in the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "-84516",
+                "y": "245449",
+                "name": "High Priest Biotin",
+                "linktext": "Step 23",
+                "loc": "city"
+            },
+            "text": "Talk to High Priest Biotin in the Temple of the Talking Island Village and get the reward."
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "title": "Test of the Summoner",
+    "routeUri": "quests\/test-of-the-summoner\/{lang}",
+    "routeName": "test-of-the-summoner",
+    "router": "routers@TestoftheSummoner",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf",
+        "class": "Human Wizard, Elven Wizard, Dark Wizard",
+        "start_location": "Gludin Village \/ Gludio Territory",
+        "start_npc": "Galatea",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-81199",
+                "y": "151904",
+                "name": "Galatea",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Head Summoner Galatea in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "19223",
+                "y": "146228",
+                "name": "Grocer Lars",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "sub": [
+                {
+                    "text": "On the Plains of the Lizardmen northwest from the Town of Oren hunt Leto Lizardman Warrior, Leto Lizardman Shaman, Leto Lizardman Overlord, collect Leto Lizardman Amulet \u00a0\u2014\u00a030 pcs."
+                },
+                {
+                    "text": "In the Sea of Spores hunt Giant Fungus, collect Red Spore Dust \u00a0\u2014\u00a030 pcs."
+                },
+                {
+                    "text": "Near Hunters Village hunt Karul Bugbear, collect Karul Bugbear Totem \u00a0\u2014\u00a030 pcs."
+                },
+                {
+                    "text": "In the Ivory Tower Crater hunt Manashen Gargoyle, collect Manashen Shard \u00a0\u2014\u00a030 pcs."
+                },
+                {
+                    "text": "In Breka's Stronghold hunt Breka Orc Shaman, Breka Orc Prefect, collect Breka Orc Totem \u00a0\u2014\u00a030 pcs."
+                },
+                {
+                    "text": "Near Hardin's Academy hunt Fettered Soul, collect Crimson Bloodstone \u00a0\u2014\u00a030 pcs."
+                },
+                {
+                    "text": "Near Hardin's Academy hunt Windsus, collect Windsus Tusk \u00a0\u2014\u00a030 pcs."
+                },
+                {
+                    "text": "Go to the Wasteland, hunt Tyrant and Elder Tyrant, until you have Tyrant's Talons \u00a0\u2014\u00a030 pcs.."
+                },
+                {
+                    "text": "Go to the Gorgon Flower Garden, hunt Wyrm, until you have Wyrm's Fangs \u00a0\u2014\u00a030 pcs.."
+                },
+                {
+                    "text": "Go to the Ant Nest, hunt Noble Ant and Noble Ant Captain, until you have Noble Ant's Wings \u00a0\u2014\u00a030 pcs.."
+                }
+            ],
+            "text": "Talk to Grocer Lars in the Grocery shop in the Town of Dion. You can remove the list she gave you and talk to her again so she'd give you a new one. Repeat until you get the list you need. List I: On the Plains of the Lizardmen northwest from the Town of Oren hunt Leto Lizardman Warrior, Leto Lizardman Shaman, Leto Lizardman Overlord, collect Leto Lizardman Amulet \u00a0\u2014\u00a030 pcs. In the Sea of Spores hunt Giant Fungus, collect Red Spore Dust \u00a0\u2014\u00a030 pcs. List II: Near Hunters Village hunt Karul Bugbear, collect Karul Bugbear Totem \u00a0\u2014\u00a030 pcs. In the Ivory Tower Crater hunt Manashen Gargoyle, collect Manashen Shard \u00a0\u2014\u00a030 pcs. List III: In Breka's Stronghold hunt Breka Orc Shaman, Breka Orc Prefect, collect Breka Orc Totem \u00a0\u2014\u00a030 pcs. Near Hardin's Academy hunt Fettered Soul, collect Crimson Bloodstone \u00a0\u2014\u00a030 pcs. List IV: Near Hardin's Academy hunt Windsus, collect Windsus Tusk \u00a0\u2014\u00a030 pcs. Go to the Wasteland, hunt Tyrant and Elder Tyrant, until you have Tyrant's Talons \u00a0\u2014\u00a030 pcs.. List V: Go to the Gorgon Flower Garden, hunt Wyrm, until you have Wyrm's Fangs \u00a0\u2014\u00a030 pcs.. Go to the Ant Nest, hunt Noble Ant and Noble Ant Captain, until you have Noble Ant's Wings \u00a0\u2014\u00a030 pcs.."
+        },
+        {
+            "props": {
+                "x": "19223",
+                "y": "146228",
+                "name": "Grocer Lars",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Grocer Lars in the Magic shop in the Town of Dion, get Beginning Arcana \u00a0\u2014\u00a02 pcs., repear steps 1-2 until you have Beginning Arcana \u00a0\u2014\u00a06 pcs.."
+        },
+        {
+            "text": "Now it's time to fight the summoners in any order. Talk to a summoner and get a 1st Crystal of Starting . Summon your servitor to fight, get a 1st Crystal of Inprogress . The fight begins. Only servitor should fight. If you help your servitor, you get a 1st Crystal of Foul . You can start the fight again. If you lose, you get a 1st Crystal of Defeat . You'll have to get more arcanas. If you win, you get a 1st Crystal of Victory ."
+        },
+        {
+            "props": {
+                "x": "-118697",
+                "y": "232927",
+                "name": "Summoner Almors",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "sub": [
+                {
+                    "text": "Defeat quest monster Pako the Cat, and Summoner Almors will give you a Almors' Arcana ."
+                }
+            ],
+            "text": "Talk to Summoner Almors on the western coast of the Talking Island. Defeat quest monster Pako the Cat, and Summoner Almors will give you a Almors' Arcana ."
+        },
+        {
+            "props": {
+                "x": "-24085",
+                "y": "207313",
+                "name": "Summoner Basilla",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "sub": [
+                {
+                    "text": "Defeat quest monster Mimi the Cat, and Summoner Basilla will give you a Basillia's Arcana ."
+                },
+                {
+                    "props": {
+                        "x": "17831",
+                        "y": "85246",
+                        "name": "Summoner Celestiel",
+                        "linktext": "Step 4",
+                        "loc": "city"
+                    },
+                    "text": "Talk to Summoner Celestiel at the Elven Fortress."
+                },
+                {
+                    "text": "Defeat quest monster Phantasm the Unicorn, and Summoner Celestiel will give you a Celestiel's Arcana ."
+                }
+            ],
+            "text": "Talk to Summoner Basilla at the southern entrance to the Wasteland. Defeat quest monster Mimi the Cat, and Summoner Basilla will give you a Basillia's Arcana . Talk to Summoner Celestiel at the Elven Fortress. Defeat quest monster Phantasm the Unicorn, and Summoner Celestiel will give you a Celestiel's Arcana ."
+        },
+        {
+            "props": {
+                "x": "23021",
+                "y": "118064",
+                "name": "Summoner Belthus",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "sub": [
+                {
+                    "text": "Defeat quest monster Shadow Turen, and Summoner Belthus will give you a Belthus' Arcana ."
+                }
+            ],
+            "text": "Talk to Summoner Belthus located at the entrance to the Cruma Tower. Defeat quest monster Shadow Turen, and Summoner Belthus will give you a Belthus' Arcana ."
+        },
+        {
+            "props": {
+                "x": "23420",
+                "y": "187302",
+                "name": "Summoner Camoniell",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "sub": [
+                {
+                    "text": "Defeat quest monster Unicorn, and Summoner Camoniell will give you a Camoniell's Arcana ."
+                },
+                {
+                    "props": {
+                        "x": "106055",
+                        "y": "134874",
+                        "name": "Summoner Brynthea",
+                        "linktext": "Step 4",
+                        "loc": ""
+                    },
+                    "text": "Talk to Summoner Brynthea to the northeast from the Town of Giran."
+                },
+                {
+                    "text": "Defeat quest monster Silhouette Tilfo, and Summoner Brynthea will give you a Brynthea's Arcana ."
+                }
+            ],
+            "text": "Talk to Summoner Camoniell to the east from Floran Village. Defeat quest monster Unicorn, and Summoner Camoniell will give you a Camoniell's Arcana . Talk to Summoner Brynthea to the northeast from the Town of Giran. Defeat quest monster Silhouette Tilfo, and Summoner Brynthea will give you a Brynthea's Arcana ."
+        },
+        {
+            "props": {
+                "x": "-81199",
+                "y": "151904",
+                "name": "Galatea",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Head Summoner Galatea in Gludin Village and get the reward."
+        }
+    ]
+}

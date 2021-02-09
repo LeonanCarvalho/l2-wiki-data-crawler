@@ -1,0 +1,218 @@
+{
+    "title": "Test of the Reformer",
+    "routeUri": "quests\/test-of-the-reformer\/{lang}",
+    "routeName": "test-of-the-reformer",
+    "router": "routers@TestoftheReformer",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Dark Elf",
+        "class": "Cleric, Shillien Oracle",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Pupina",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "86485",
+                "y": "148384",
+                "name": "Priestess Pupina",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Priestess Pupina in Einhasad Temple in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "52285",
+                "y": "143591",
+                "name": "Execution Grounds",
+                "linktext": "Step 2",
+                "loc": ""
+            },
+            "text": "Go to the Execution Grounds, hunt quest monsters Nameless Revenant (use the Disrupt Undead skill), until you have Ripped Diary \u00a0\u2014\u00a07 pcs."
+        },
+        {
+            "props": {
+                "x": "52285",
+                "y": "143591",
+                "name": "Execution Grounds",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Quest Monster Aruraune will appear. Kill it and get Huge Nail ."
+        },
+        {
+            "props": {
+                "x": "86485",
+                "y": "148384",
+                "name": "Priestess Pupina",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Priestess Pupina in Einhasad Temple in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "-671",
+                "y": "179051",
+                "name": "Preacher Sla",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Talk to Preacher Sla on the Plains of Dion and agree to help her."
+        },
+        {
+            "props": {
+                "x": "-3826",
+                "y": "40264",
+                "name": "Katari",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Talk to Katari near Swampland. 2 quest monsters will appear: Ol Mahum Inspector and Ol Mahum Pilgrim, kill Ol Mahum Inspector."
+        },
+        {
+            "props": {
+                "x": "-3826",
+                "y": "40264",
+                "name": "Katari",
+                "linktext": "Step 8",
+                "loc": ""
+            },
+            "text": "Talk to Katari once again."
+        },
+        {
+            "props": {
+                "x": "-3826",
+                "y": "40264",
+                "name": "Ol Mahums",
+                "linktext": "Step 9",
+                "loc": ""
+            },
+            "text": "Quest monster Ol Mahum Betrayer will appear. Kill it (it will try to escape, use \"Dryad Root\" to hold it) and get Letter of Betrayer ."
+        },
+        {
+            "props": {
+                "x": "-3826",
+                "y": "40264",
+                "name": "Katari",
+                "linktext": "Step 10",
+                "loc": ""
+            },
+            "text": "Talk to Katari."
+        },
+        {
+            "props": {
+                "x": "-671",
+                "y": "179051",
+                "name": "Preacher Sla",
+                "linktext": "Step 11",
+                "loc": ""
+            },
+            "text": "Talk to Preacher Sla on the Plains of Dion."
+        },
+        {
+            "props": {
+                "x": "-9563",
+                "y": "-89959",
+                "name": "Kakan",
+                "linktext": "Step 12",
+                "loc": ""
+            },
+            "text": "Talk to Kakan at the Immortal Plateau, Southern Region."
+        },
+        {
+            "props": {
+                "x": "-9563",
+                "y": "-89959",
+                "name": "Ol Mahums",
+                "linktext": "Step 13",
+                "loc": ""
+            },
+            "text": "Ol Mahum Pilgrim and Quest Monster Crimson Werewolf will appear. Wait until Ol Mahum Pilgrim is dead, then kill the werewolf using the Wind Strike skill."
+        },
+        {
+            "props": {
+                "x": "-9563",
+                "y": "-89959",
+                "name": "Kakan",
+                "linktext": "Step 14",
+                "loc": ""
+            },
+            "text": "Talk to Kakan."
+        },
+        {
+            "props": {
+                "x": "125832",
+                "y": "-180002",
+                "name": "Nyakuri",
+                "linktext": "Step 15",
+                "loc": "city"
+            },
+            "text": "Talk to Nyakuri near Abandoned Coal Mines."
+        },
+        {
+            "props": {
+                "x": "125832",
+                "y": "-180002",
+                "name": "Krudel Lizardman",
+                "linktext": "Step 16",
+                "loc": "city"
+            },
+            "text": "Ol Mahum Pilgrim and Quest monster Krudel Lizardman will appear. Kill Krudel Lizardman using the \"Wind Strike\" skill."
+        },
+        {
+            "props": {
+                "x": "125832",
+                "y": "-180002",
+                "name": "Nyakuri",
+                "linktext": "Step 17",
+                "loc": "city"
+            },
+            "text": "Talk to Nyakuri."
+        },
+        {
+            "props": {
+                "x": "-112206",
+                "y": "244303",
+                "name": "Ramus",
+                "linktext": "Step 18",
+                "loc": ""
+            },
+            "text": "Talk to Ramus near the Singing Waterfall (not far from the Elven Ruins)."
+        },
+        {
+            "props": {
+                "x": "-112720",
+                "y": "234880",
+                "name": "Elven Ruins Entrance",
+                "linktext": "Step 19",
+                "loc": ""
+            },
+            "text": "Go to the Elven Ruins (you can get there via NPC Gatekeeper Siff, which is located near the blocked entrance to the ruins), hunt Silent Horror, Skeleton Marksman, Skeleton Lord, Misery Skeleton, Skeleton Archer (you can find the mobs in the northern parts of the ruins - the furthest part from the entrance), collect Bone Fragment \u00a0\u2014\u00a05 pcs. (one piece from each type of mobs)."
+        },
+        {
+            "props": {
+                "x": "-112206",
+                "y": "244303",
+                "name": "Ramus",
+                "linktext": "Step 20",
+                "loc": ""
+            },
+            "text": "Talk to Ramus near the Singing Waterfall (not far from the Elven Ruins)."
+        },
+        {
+            "props": {
+                "x": "-671",
+                "y": "179051",
+                "name": "Preacher Sla",
+                "linktext": "Step 21",
+                "loc": ""
+            },
+            "text": "Talk to Preacher Sla on the Plains of Dion and get the reward."
+        }
+    ]
+}

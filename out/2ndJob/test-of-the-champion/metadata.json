@@ -1,0 +1,168 @@
+{
+    "title": "Test of the Champion",
+    "routeUri": "quests\/test-of-the-champion\/{lang}",
+    "routeName": "test-of-the-champion",
+    "router": "routers@TestoftheChampion",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Orc",
+        "class": "Warrior, Raider",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Ascalon",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "79253",
+                "y": "147049",
+                "name": "Veteran Ascalon",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Veteran Ascalon near the Armor shop in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "20983",
+                "y": "143844",
+                "name": "Mason",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Mason near the Warehouse in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "84869",
+                "y": "89037",
+                "name": "Plains of the Lizardmen",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Go to the Plains of the Lizardmen, hunt Bloody Axe's Escort, collect Bloody Axe Head \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "20983",
+                "y": "143844",
+                "name": "Mason",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Mason near the Warehouse in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "79253",
+                "y": "147049",
+                "name": "Veteran Ascalon",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Veteran Ascalon near the Armor shop in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "83305",
+                "y": "150521",
+                "name": "Dye Merchant Groot",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Dye Merchant Groot in the Magic Shop in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "120480",
+                "y": "131488",
+                "name": "Gorgon Flower Garden",
+                "linktext": "Step 7.1",
+                "loc": ""
+            },
+            "text": "Collect the ingredients: Go to Gorgon Flower Garden, hunt Medusa, collect Medusa's Venom \u00a0\u2014\u00a030 pcs., Harpy and quest monsters Harpy Matriarch, collect Harpy's Egg \u00a0\u2014\u00a030 pcs. Go to the Death Pass, kill Windsus and collect Windsus Bile \u00a0\u2014\u00a030 pcs."
+        },
+        {
+            "props": {
+                "x": "83305",
+                "y": "150521",
+                "name": "Dye Merchant Groot",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Dye Merchant Groot in the Magic Shop in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "79253",
+                "y": "147049",
+                "name": "Veteran Ascalon",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Veteran Ascalon near the Armor shop in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "81023",
+                "y": "56456",
+                "name": "Captain Mouen",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Mouen at the southern gates of the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "67872",
+                "y": "111440",
+                "name": "Death Pass",
+                "linktext": "Step 12",
+                "loc": ""
+            },
+            "text": "Go to the Death Pass, kill Road Scavenger and collect Road Ratman Head \u00a0\u2014\u00a011 pcs."
+        },
+        {
+            "props": {
+                "x": "81023",
+                "y": "56456",
+                "name": "Captain Mouen",
+                "linktext": "Step 12",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Mouen at the southern gates of the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "96789",
+                "y": "77585",
+                "name": "Plains of the Lizardmen",
+                "linktext": "Step 13",
+                "loc": ""
+            },
+            "text": "Go to the Plains of the Lizardmen, hunt Leto Lizardman, Leto Lizardman Archer, Leto Lizardman Soldier, Leto Lizardman Warrior, Leto Lizardman Shaman, Leto Lizardman Overlord, collect Leto Lizardman Fang \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "81023",
+                "y": "56456",
+                "name": "Captain Mouen",
+                "linktext": "Step 14",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Mouen and the southern gates of the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "79253",
+                "y": "147049",
+                "name": "Veteran Ascalon",
+                "linktext": "Step 15",
+                "loc": "city"
+            },
+            "text": "Talk to Veteran Ascalon near the Armor shop in the Town of Giran and get your reward."
+        }
+    ]
+}

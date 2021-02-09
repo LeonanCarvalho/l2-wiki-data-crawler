@@ -1,0 +1,161 @@
+{
+    "title": "Path of the Human Wizard",
+    "routeUri": "quests\/path-of-the-human-wizard\/{lang}",
+    "routeName": "path-of-the-human-wizard",
+    "router": "routers@PathoftheHumanWizard",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human",
+        "class": "Human Mystic",
+        "start_location": "Gludin Village \/ Gludio Territory",
+        "start_npc": "Parina",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-80430",
+                "y": "150694",
+                "name": "Parina",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Parina at the entrance to the Temple in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-20352",
+                "y": "144736",
+                "name": "Flame Salamander",
+                "linktext": "Step 2",
+                "loc": ""
+            },
+            "text": "Talk to Flame Salamander in the Ruins of Despair."
+        },
+        {
+            "props": {
+                "x": "-29984",
+                "y": "133472",
+                "name": "Ruins of Despair",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Go to the entrance of the Ruins of Despair, hunt Ratman Warrior, until you have Key of Flame Map"
+        },
+        {
+            "props": {
+                "x": "-20352",
+                "y": "144736",
+                "name": "Flame Salamander",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Talk to Flame Salamander in the Ruins of Despair."
+        },
+        {
+            "props": {
+                "x": "-41452",
+                "y": "167329",
+                "name": "Air Sylphid",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Talk to Air Sylphid located to the east from Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-45040",
+                "y": "179909",
+                "name": "Wasteland Lizardman",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Talk to Wasteland Lizardman located not far from Air Sylphid."
+        },
+        {
+            "props": {
+                "x": "-41452",
+                "y": "167329",
+                "name": "Air Sylphid",
+                "linktext": "Step 7",
+                "loc": ""
+            },
+            "text": "Talk to Air Sylphid located to the east from Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-60672",
+                "y": "126592",
+                "name": "Water Undine",
+                "linktext": "Step 8",
+                "loc": ""
+            },
+            "text": "Talk to Water Undine in Fellmere Harvesting Grounds."
+        },
+        {
+            "props": {
+                "x": "-58423",
+                "y": "122785",
+                "name": "Water Seer",
+                "linktext": "Step 9",
+                "loc": ""
+            },
+            "text": "Hunt Quest Monster Water Seer, until you have Shine Stone \u00a0\u2014\u00a02 pcs."
+        },
+        {
+            "props": {
+                "x": "-60672",
+                "y": "126592",
+                "name": "Water Undine",
+                "linktext": "Step 10",
+                "loc": ""
+            },
+            "text": "Talk to Water Undine in Fellmere Harvesting Grounds."
+        },
+        {
+            "props": {
+                "x": "-53760",
+                "y": "110720",
+                "name": "Earth Snake",
+                "linktext": "Step 11",
+                "loc": ""
+            },
+            "text": "Talk to Earth Snake in the Ruins of Agony."
+        },
+        {
+            "props": {
+                "x": "-63229",
+                "y": "99756",
+                "name": "\"Fellmere",
+                "linktext": "Step 1",
+                "loc": ""
+            },
+            "text": "Go down the northwestern road from the Ruins of Agony to hunt Red Bear, until you have Red Soil . Deliver the final blow with a common attack (not with skills) to get the quest item almost immediately."
+        },
+        {
+            "props": {
+                "x": "-53760",
+                "y": "110720",
+                "name": "Earth Snake",
+                "linktext": "Step 13",
+                "loc": ""
+            },
+            "text": "Talk to Earth Snake in the Ruins of Agony."
+        },
+        {
+            "props": {
+                "x": "-80430",
+                "y": "150694",
+                "name": "Parina",
+                "linktext": "Step 14",
+                "loc": "city"
+            },
+            "text": "Talk to Parina at the entrance to the Temple in Gludin Village and get the reward."
+        },
+        {
+            "text": "When you get level 20, talk to High Priestess in Einhasad Temple in the Town of Gludio or Gludin Village to transfer your class to Human Wizard."
+        }
+    ]
+}

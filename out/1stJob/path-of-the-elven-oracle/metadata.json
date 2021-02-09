@@ -1,0 +1,128 @@
+{
+    "title": "Path of the Elven Oracle",
+    "routeUri": "quests\/path-of-the-elven-oracle\/{lang}",
+    "routeName": "path-of-the-elven-oracle",
+    "router": "routers@PathoftheElvenOracle",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Elf",
+        "class": "Elven Mystic",
+        "start_location": "Town of Gludio \/ Gludio Territory",
+        "start_npc": "Manuel",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-13487",
+                "y": "121541",
+                "name": "Manuel",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Manuel in Einhasad Temple in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-92310",
+                "y": "154223",
+                "name": "Allana",
+                "linktext": "Step 2",
+                "loc": ""
+            },
+            "text": "Talk to Allana on the western hill near Gludin Harbor."
+        },
+        {
+            "props": {
+                "x": "-92310",
+                "y": "154223",
+                "name": "Lizardmen",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Kill 2 quest mobs: Lizardman Warrior and Lizardman Agent."
+        },
+        {
+            "props": {
+                "x": "-92310",
+                "y": "154223",
+                "name": "Allana",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Talk to Allana on the western hill near Gludin Harbor."
+        },
+        {
+            "props": {
+                "x": "-93275",
+                "y": "147654",
+                "name": "Perrin",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Talk to Perrin on the eastern hill near Gludin Harbor. Kill Quest Monster Tamil."
+        },
+        {
+            "props": {
+                "x": "-93275",
+                "y": "147654",
+                "name": "Perrin",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Talk to Perrin."
+        },
+        {
+            "props": {
+                "x": "-92310",
+                "y": "154223",
+                "name": "Allana",
+                "linktext": "Step 7",
+                "loc": ""
+            },
+            "text": "Talk to Allana on the western hill near Gludin Harbor."
+        },
+        {
+            "props": {
+                "x": "-13487",
+                "y": "121541",
+                "name": "Priest Manuel",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Manuel in Einhasad Temple in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-92310",
+                "y": "154223",
+                "name": "Allana",
+                "linktext": "Step 9",
+                "loc": ""
+            },
+            "text": "Talk to Allana on the western hill near Gludin Harbor."
+        },
+        {
+            "props": {
+                "x": "-13487",
+                "y": "121541",
+                "name": "Priest Manuel",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Manuel in Einhasad Temple in the Town of Gludio and get the reward."
+        },
+        {
+            "props": {
+                "x": "-12784",
+                "y": "121709",
+                "name": "High Priest Raymond",
+                "linktext": "Class transfer",
+                "loc": "city"
+            },
+            "text": "When you get level 20, talk to High Priest Raymond in Einhasad Temple in the Town of Gludio to transfer your class to Elven Oracle."
+        }
+    ]
+}

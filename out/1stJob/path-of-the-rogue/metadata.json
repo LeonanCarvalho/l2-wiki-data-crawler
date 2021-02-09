@@ -1,0 +1,98 @@
+{
+    "title": "Path of the Rogue",
+    "routeUri": "quests\/path-of-the-rogue\/{lang}",
+    "routeName": "path-of-the-rogue",
+    "router": "routers@PathoftheRogue",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human",
+        "class": "Human Fighter",
+        "start_location": "Gludin Village \/ Gludio Territory",
+        "start_npc": "Bezique",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-85019",
+                "y": "152887",
+                "name": "Bezique",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Bezique at the western gate of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-83414",
+                "y": "151924",
+                "name": "Neti",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Neti on the square of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-46576",
+                "y": "112480",
+                "name": "Ruins of Agony]",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Go to the Ruins of Agony, kill mobs with the quest weapon: Skeleton Tracker, Skeleton Tracker Captain, Skeleton Scout, Skeleton Bowman, Ruin Spartoi, Raging Spartoi. You need to get Spartoi's Bones \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "-83414",
+                "y": "151924",
+                "name": "Neti",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Neti on the square of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-85019",
+                "y": "152887",
+                "name": "Captain Bezique",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Bezique at the western gate of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-43377",
+                "y": "145367",
+                "name": "Cat's Eye",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Go to the Abandoned Camp, kill quest monsters Cat's Eye with the quest weapon you've just obtained, and get Stolen Jewelry , Stolen Tomes , Stolen Ring , Stolen Necklace ."
+        },
+        {
+            "props": {
+                "x": "-85019",
+                "y": "152887",
+                "name": "Captain Bezique",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Bezique at the western gate of Gludin Village and get the reward."
+        },
+        {
+            "props": {
+                "x": "-81688",
+                "y": "149350",
+                "name": "Grand Master Ramos",
+                "linktext": "Reward",
+                "loc": "city"
+            },
+            "text": "When you get level 20, talk to Grand Master Ramos in the Warrior Guild in the Town of Gludio."
+        }
+    ]
+}

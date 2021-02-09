@@ -1,0 +1,201 @@
+{
+    "title": "Trial of Duty",
+    "routeUri": "quests\/trial-of-duty\/{lang}",
+    "routeName": "trial-of-duty",
+    "router": "routers@TrialofDuty",
+    "properties": {
+        "level": "35+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf",
+        "class": "Human Knight, Elven Knight, Palus Knight",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Hannavalt",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "85655",
+                "y": "146471",
+                "name": "Grand Master Hannavalt",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Grand Master Hannavalt in the Warrior Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "-6774",
+                "y": "202086",
+                "name": "Sir Aron Tanford",
+                "linktext": "Step 2",
+                "loc": ""
+            },
+            "text": "Talk to Sir Aron Tanford at Ol Mahum Checkpoint (near Wasteland)."
+        },
+        {
+            "props": {
+                "x": "-9981",
+                "y": "182216",
+                "name": "Wasteland",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Go to the Wasteland, hunt Skeleton Marauder, Skeleton Raider, until quest monster Spirit of Sir Herod appears. You should use the quest weapon Old Knight Sword only! You need to get Knight's Tear ."
+        },
+        {
+            "props": {
+                "x": "-6774",
+                "y": "202086",
+                "name": "Sir Aron Tanford",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Talk to Sir Aron Tanford at Ol Mahum Checkpoint (near Wasteland)."
+        },
+        {
+            "props": {
+                "x": "17220",
+                "y": "146554",
+                "name": "Sir Kiel Nighthawk",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Sir Kiel Nighthawk in Dark Elf Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "48512",
+                "y": "147312",
+                "name": "Execution Grounds",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Go to the Execution Grounds, hunt Lesser Ghoul and Strain, collect Report Piece \u00a0\u2014\u00a010 pcs. to get Report of Sir Talianus . Map"
+        },
+        {
+            "props": {
+                "x": "17220",
+                "y": "146554",
+                "name": "Sir Kiel Nighthawk",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Sir Kiel Nighthawk in Dark Elf Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "48512",
+                "y": "147312",
+                "name": "Execution Grounds",
+                "linktext": "Step 8",
+                "loc": ""
+            },
+            "text": "Go to the Execution Grounds, hunt Hangman Tree, until Spirit Of Sir Talianus appears."
+        },
+        {
+            "text": "Talk to the ghost."
+        },
+        {
+            "props": {
+                "x": "17220",
+                "y": "146554",
+                "name": "Sir Kiel Nighthawk",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Sir Kiel Nighthawk in Dark Elf Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "115791",
+                "y": "75867",
+                "name": "Isael Silvershadow",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Talk to Isael Silvershadow in Hunters Village."
+        },
+        {
+            "props": {
+                "x": "96789",
+                "y": "77585",
+                "name": "Plains of the Lizardmen",
+                "linktext": "Step 11",
+                "loc": ""
+            },
+            "text": "Go to the Plains of the Lizardmen, hunt Leto Lizardman, Leto Lizardman Archer, Leto Lizardman Soldier, Leto Lizardman Warrior, Leto Lizardman Shaman, Leto Lizardman Overlord, collect Militas Article \u00a0\u2014\u00a020 pcs."
+        },
+        {
+            "props": {
+                "x": "115791",
+                "y": "75867",
+                "name": "Isael Silvershadow",
+                "linktext": "Step 12",
+                "loc": "city"
+            },
+            "text": "Talk to Isael Silvershadow in [[Hunters Village|Hunters Village]."
+        },
+        {
+            "props": {
+                "x": "86912",
+                "y": "148802",
+                "name": "Priest Dustin",
+                "linktext": "Step 13",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Dustin in Einhasad Temple in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "81008",
+                "y": "124048",
+                "name": "Breka's Stronghold",
+                "linktext": "Step 14",
+                "loc": ""
+            },
+            "text": "Go to Breka's Stronghold, hunt Breka Orc Prefect and get Athebaldt's Skull , Athebaldt's Ribs , Athebaldt's Shin ."
+        },
+        {
+            "props": {
+                "x": "86912",
+                "y": "148802",
+                "name": "Priest Dustin",
+                "linktext": "Step 15",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Dustin in Einhasad Temple in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "-100332",
+                "y": "238019",
+                "name": "Sir Collin Windawood",
+                "linktext": "Step 16",
+                "loc": ""
+            },
+            "text": "Talk to Sir Collin Windawood near the Obelisk of Victory on the Talking Island."
+        },
+        {
+            "props": {
+                "x": "86912",
+                "y": "148802",
+                "name": "Priest Dustin",
+                "linktext": "Step 17",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Dustin in Einhasad Temple in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "85655",
+                "y": "146471",
+                "name": "Grand Master Hannavalt",
+                "linktext": "Step 18",
+                "loc": "city"
+            },
+            "text": "Talk to Grand Master Hannavalt in the Warrior Guild of the Town of Giran and get the reward."
+        }
+    ]
+}

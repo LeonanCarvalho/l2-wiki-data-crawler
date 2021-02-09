@@ -1,0 +1,58 @@
+{
+    "title": "Test of the War Spirit",
+    "routeUri": "quests\/test-of-the-war-spirit\/{lang}",
+    "routeName": "test-of-the-war-spirit",
+    "router": "routers@TestoftheWarSpirit",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Orc",
+        "class": "Orc Shaman",
+        "start_location": "Town of Dion \/ Dion Territory",
+        "start_npc": "Somak",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "19924",
+                "y": "143196",
+                "name": "Priest Somak",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Somakin the Orc Guild of the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "69984",
+                "y": "109695",
+                "name": "Orim",
+                "linktext": "Step 2.1",
+                "loc": ""
+            },
+            "text": "Get the remnants of 4 heroes: Talk to Shadow Orim in the Death Pass. Go to the Cruma Tower, hunt Excuro, collect Excuro's Scale \u00a0\u2014\u00a010 pcs.; Porta, collect Porta's Eye \u00a0\u2014\u00a010 pcs.; and Mordeo, collect Mordeo's Talon \u00a0\u2014\u00a010 pcs. Talk to Shadow Orim in the Death Pass. Talk to Priest Racoy in the Orc Guild in the Town of Gludio. Talk to Priestess Vivyan in Einhasad Temple in the Town of Gludio. Talk to Grocer Sarien at the southern entrance to the Wasteland. Go to Ant Nest, hunt Noble Ant and Noble Ant Captain, collect Kiruna's Skull , Kiruna's Rib Bone , Kiruna's Spine , Kiruna's Arm Bone , Kiruna's Thigh Bone . Talk to Priest Racoy in the Orc Guild in the Town of Gludio. Talk to Priest Pekiron in the Orc Guild in the Town of Oren. Go to Plains of the Lizardmen, hunt Leto Lizardman Shaman, collect Tonar's Skull , Tonar's Rib Bone , Tonar's Spine , Tonar's Arm Bone , Tonar's Thigh Bone . Talk to Priest Pekiron in the Orc Guild in the Town of Oren. Talk to Priest Manakia in the Orc Guild of the Town of Giran. Go to the Gorgon Flower Garden, hunt Medusa and get Hermodt's Rib Bone , Hermodt's Spine , Hermodt's Arm Bone , Hermodt's Thigh Bone . Kill quest monster Stenoa Gorgon Queen, get Hermodt's Skull . Talk to Priest Manakia in the Orc Guild of the Town of Giran. Talk to Priest Somakin the Orc Guild of the Town of Dion. Go to the Hunters Valley, hunt Tamlin Orc and Tamlin Orc Archer, until you have Tamlin Orc Head \u00a0\u2014\u00a013 pcs.."
+        },
+        {
+            "props": {
+                "x": "19924",
+                "y": "143196",
+                "name": "Priest Somak",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Somakin the Orc Guild of the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "9424",
+                "y": "-112528",
+                "name": "Cave of Trials Entrance",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Go to the Cave of Trials and talk to Ancestor Martankus to get the reward."
+        }
+    ]
+}

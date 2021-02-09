@@ -1,0 +1,228 @@
+{
+    "title": "Testimony of Life",
+    "routeUri": "quests\/testimony-of-life\/{lang}",
+    "routeName": "testimony-of-life",
+    "router": "routers@TestimonyofLife",
+    "properties": {
+        "level": "37+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Elf",
+        "class": "Elven Knight, Elven Scout, Elven Wizard, Elven Oracle",
+        "start_location": "Town of Dion \/ Dion Territory",
+        "start_npc": "Cardien",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "19472",
+                "y": "144334",
+                "name": "Master Cardien",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Master Cardien in Warrior Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "44692",
+                "y": "52261",
+                "name": "Hierarch Asterios",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Hierarch Asterios in the Temple of the Elven Village."
+        },
+        {
+            "props": {
+                "x": "51210",
+                "y": "82474",
+                "name": "Thalia",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Talk to Thalia on the western shore of Iris Lake."
+        },
+        {
+            "props": {
+                "x": "77458",
+                "y": "148169",
+                "name": "Pushkin",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Pushkin in the Blacksmith Workshop of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "67933",
+                "y": "117045",
+                "name": "Death Pass",
+                "linktext": "Step 5.1",
+                "loc": ""
+            },
+            "text": "Collect the materials: Go to Death Pass, hunt Wyrm, until you have Wyrm's Fangs \u00a0\u2014\u00a010 pcs., hunt Guardian Basilisk, until you have Pure Mithril Ore \u00a0\u2014\u00a010 pcs. Go to Ant Nest, hunt any ants, collect Ant Soldier Acid \u00a0\u2014\u00a020 pcs."
+        },
+        {
+            "props": {
+                "x": "77458",
+                "y": "148169",
+                "name": "Pushkin",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Pushkin in the Blacksmith Workshop of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "51210",
+                "y": "82474",
+                "name": "Thalia",
+                "linktext": "Step 7",
+                "loc": ""
+            },
+            "text": "Talk to Thalia near Iris Lake."
+        },
+        {
+            "props": {
+                "x": "-44015",
+                "y": "79683",
+                "name": "Witch Arkenia",
+                "linktext": "Step 8",
+                "loc": ""
+            },
+            "text": "Talk to Witch Arkenia at the Altar of Rites."
+        },
+        {
+            "props": {
+                "x": "-79274",
+                "y": "150966",
+                "name": "Priest Adonius",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Adonius in Einhasad Temple of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "5106",
+                "y": "126916",
+                "name": "Cruma Marshlands",
+                "linktext": "Step 10.1",
+                "loc": ""
+            },
+            "text": "Complete his tasks: Go to the Cruma Marshlands, hunt Marsh Spider, collect Spider Ichor \u00a0\u2014\u00a020 pcs. Go to the Gorgon Flower Garden, hunt Harpy, until you have Harpy's Feather \u00a0\u2014\u00a020 pcs."
+        },
+        {
+            "props": {
+                "x": "-79274",
+                "y": "150966",
+                "name": "Priest Adonius",
+                "linktext": "Step 11",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Adonius in Einhasad Temple of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-44015",
+                "y": "79683",
+                "name": "Witch Arkenia",
+                "linktext": "Step 12",
+                "loc": ""
+            },
+            "text": "Talk to Witch Arkenia at the Altar of Rites."
+        },
+        {
+            "props": {
+                "x": "51210",
+                "y": "82474",
+                "name": "Thalia",
+                "linktext": "Step 13-14",
+                "loc": ""
+            },
+            "text": "Talk to Thalia near Iris Lake."
+        },
+        {
+            "props": {
+                "x": "115791",
+                "y": "75867",
+                "name": "Isael Silvershadow",
+                "linktext": "Step 15",
+                "loc": "city"
+            },
+            "text": "Talk to Isael Silvershadow in Hunters Village."
+        },
+        {
+            "props": {
+                "x": "96789",
+                "y": "77585",
+                "name": "Plains of the Lizardmen",
+                "linktext": "Step 16",
+                "loc": ""
+            },
+            "text": "Go to Plains of the Lizardmen, hunt Leto Lizardman Shaman, Leto Lizardman Overlord, until you have Talin's Spear Blade , Talin's Spear Shaft , Talin's Ruby , Talin's Aquamarine , Talin's Amethyst , Talin's Peridot ."
+        },
+        {
+            "props": {
+                "x": "115791",
+                "y": "75867",
+                "name": "Isael Silvershadow",
+                "linktext": "Step 17",
+                "loc": "city"
+            },
+            "text": "Talk to Isael Silvershadow in Hunters Village."
+        },
+        {
+            "props": {
+                "x": "51210",
+                "y": "82474",
+                "name": "Thalia",
+                "linktext": "Step 18",
+                "loc": ""
+            },
+            "text": "Talk to Thalia near Iris Lake."
+        },
+        {
+            "props": {
+                "x": "24053",
+                "y": "91413",
+                "name": "Eva's Unicorn",
+                "linktext": "Step 19",
+                "loc": ""
+            },
+            "text": "Use the Talin's Spear near Iris Lake, kill quest monster Eva's Unicorn, get Tears of Unicorn ."
+        },
+        {
+            "props": {
+                "x": "51210",
+                "y": "82474",
+                "name": "Thalia",
+                "linktext": "Step 20",
+                "loc": ""
+            },
+            "text": "Talk to Thalia near Iris Lake."
+        },
+        {
+            "props": {
+                "x": "44692",
+                "y": "52261",
+                "name": "Hierarch Asterios",
+                "linktext": "Step 21",
+                "loc": "city"
+            },
+            "text": "Talk to Hierarch Asterios in the Temple of the Elven Village."
+        },
+        {
+            "props": {
+                "x": "19472",
+                "y": "144334",
+                "name": "Master Cardien",
+                "linktext": "Step 22",
+                "loc": "city"
+            },
+            "text": "Talk to Master Cardien in the Warrior Guild of the Town of Dion and get the reward."
+        }
+    ]
+}

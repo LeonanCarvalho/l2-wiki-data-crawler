@@ -1,0 +1,98 @@
+{
+    "title": "Test of Magus",
+    "routeUri": "quests\/test-of-magus\/{lang}",
+    "routeName": "test-of-magus",
+    "router": "routers@TestofMagus",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf",
+        "class": "Human Wizard, Elven Wizard, Dark Wizard",
+        "start_location": "Town of Dion \/ Dion Territory",
+        "start_npc": "Rukal",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "16680",
+                "y": "142368",
+                "name": "Bard Rukal",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Bard Rukal in the Temple of the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "-80430",
+                "y": "150694",
+                "name": "Parina",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Parina at the entrance to the Temple in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-16895",
+                "y": "194229",
+                "name": "Elder Casian",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Talk to Elder Casian in the middle of the Wasteland."
+        },
+        {
+            "props": {
+                "x": "-57972",
+                "y": "126924",
+                "name": "Apparition Singing Flower",
+                "linktext": "Step 4.1",
+                "loc": ""
+            },
+            "text": "Get the seeds: Go to the Fellmere Harvesting Grounds, hunt quest monsters Apparition Singing Flower near Fellmere Lake, until you have 1st Golden Seed . Go to Gods' Falls behind Ivory Tower, hunt quest monsters Singing Flower of Nightmare near the Ivory Fortress until you have 1st Golden Seed . Go to the Town of Giran, and then from Giran down the southern toad until the second fork. Hunt quest monsters Singing Flower of Darkness, until you have 1st Golden Seed ."
+        },
+        {
+            "props": {
+                "x": "16680",
+                "y": "142368",
+                "name": "Bard Rukal",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Bard Rukal in the Temple of the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "-60672",
+                "y": "126592",
+                "name": "Water Undine",
+                "linktext": "Step 6.1",
+                "loc": ""
+            },
+            "text": "Collect the sounds for the melody: Talk to Water Undine near Fellmere Lake. Talk to Flame Salamander in the Ruins of Despair. Talk to Air Sylphid in the Wasteland. Talk to Earth Snake in the Ruins of Agony. Go to the Cruma Marshlands, hunt Toad Lord, Marsh Stakato, collect Dazzling Drop \u00a0\u2014\u00a020 pcs. Go to Ivory Tower Crater, hunt quest monsters Ghost Fire, collect Flame Crystal \u00a0\u2014\u00a05 pcs.; hunt Reinforced Steel Golem, collect Reinforced Steel Golem Shard \u00a0\u2014\u00a010 pcs., hunt Reinforced Stone Golem, collect Reinforced Stone Golem Powder \u00a0\u2014\u00a010 pcs., and Reinforced Monster Eye, collect Reinforced Monster Eye Shell \u00a0\u2014\u00a010 pcs. Go to Gorgon Flower Garden, hunt Wyrm, collect Wyrm's Wingbone \u00a0\u2014\u00a010 pcs., and Harpy, collect Harpy's Feather \u00a0\u2014\u00a020 pcs."
+        },
+        {
+            "props": {
+                "x": "67933",
+                "y": "117045",
+                "name": "Death Pass",
+                "linktext": "Step 6.8",
+                "loc": ""
+            },
+            "text": "Go to the Death Pass, kill Windsus and collect Windsus Mane \u00a0\u2014\u00a010 pcs. Talk to Water Undine near Fellmere Lake. Talk to Flame Salamander in the Ruins of Despair. Talk to Air Sylphid in the Wasteland. Talk to Earth Snake in the Ruins of Agony."
+        },
+        {
+            "props": {
+                "x": "16680",
+                "y": "142368",
+                "name": "Bard Rukal",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Bard Rukal in the Temple of the Town of Dion and get the reward."
+        }
+    ]
+}

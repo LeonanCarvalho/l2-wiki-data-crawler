@@ -1,0 +1,121 @@
+{
+    "title": "Trial of the Challenger",
+    "routeUri": "quests\/trial-of-the-challenger\/{lang}",
+    "routeName": "trial-of-the-challenger",
+    "router": "routers@TrialoftheChallenger",
+    "properties": {
+        "level": "35+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf, Orc",
+        "class": "Warrior, Elven Knight, Palus Knight, Raider, Monk",
+        "start_location": "Town of Dion \/ Dion Territory",
+        "start_npc": "Kash",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "19831",
+                "y": "144514",
+                "name": "Kash",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Kash located behind the Warrior Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "-6037",
+                "y": "58279",
+                "name": "Undine Waterfall",
+                "linktext": "Step 2",
+                "loc": ""
+            },
+            "text": "Go to Black Rock Hill, behind the Undine Waterfall kill the quest monster Shyslassys, get Broken Key and Scroll of Shyslassys , talk to Chest Of Shyslassys."
+        },
+        {
+            "props": {
+                "x": "19831",
+                "y": "144514",
+                "name": "Kash",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Kash located behind the Warrior Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "84274",
+                "y": "143740",
+                "name": "Martien",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Martien at the northern gate at the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "4919",
+                "y": "185851",
+                "name": "Gorr",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Go to Plains of Dion, find the cave and kill quest monster Gorr to get Watcher's 1st Eye ."
+        },
+        {
+            "props": {
+                "x": "84274",
+                "y": "143740",
+                "name": "Martien",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Martien at the northern gate at the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "19800",
+                "y": "185441",
+                "name": "Baraham",
+                "linktext": "Step 7",
+                "loc": ""
+            },
+            "text": "Go to Bee Hive, find the cave and kill quest monster Baraham to get Watcher's 1st Eye ."
+        },
+        {
+            "props": {
+                "x": "19800",
+                "y": "185441",
+                "name": "Raldo",
+                "linktext": "Step 8",
+                "loc": ""
+            },
+            "text": "Talk to Raldo. Note: choose the first answer in the list: say that you'd like to help."
+        },
+        {
+            "props": {
+                "x": "116103",
+                "y": "-178407",
+                "name": "Golden Wheel's Filaur",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Golden Wheel's Filaur in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "151438",
+                "y": "-174794",
+                "name": "Mithril Mines Entrance",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Go to Mithril Mines, find and kill quest monster Succubus Queen."
+        },
+        {
+            "text": "Talk to Raldo and get your reward."
+        }
+    ]
+}

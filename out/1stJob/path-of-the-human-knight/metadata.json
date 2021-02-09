@@ -1,0 +1,58 @@
+{
+    "title": "Path of the Human Knight",
+    "routeUri": "quests\/path-of-the-human-knight\/{lang}",
+    "routeName": "path-of-the-human-knight",
+    "router": "routers@PathoftheHumanKnight",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human",
+        "class": "Fighter",
+        "start_location": "Gludin Village \/ Gludio Territory",
+        "start_npc": "Sir Klaus Vasper",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-82437",
+                "y": "150282",
+                "name": "Sir Klaus Vasper",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Sir Klaus Vasper near Warrior Guild in Gludin Village. You need to get at least 3 coins to get the reward. Talk to High Priestess Levian in Einhasad temple in Gludin Village. Talk to Captain Bezique at the western gate of Gludin Village. Go to Langk Lizardmen Dwellings, hunt Langk Lizardman, Langk Lizardman Scout, Langk Lizardman Warrior, get Lizardman's Totem . Go to the Windmill Hill, hunt Arachnid Tracker and Poisonous Thornleg, until you have Gludio Guard's 1st Crest . Talk to High Priestess Levian in Einhasad temple in Gludin Village. Get a Coin of Lords . Talk to Captain Bezique at the western gate of Gludin Village and get a Coin of Lords . Talk to Captain Bathis in the middle of the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-4443",
+                "y": "111782",
+                "name": "Evil Hunting Grounds",
+                "linktext": "Step 1.8",
+                "loc": ""
+            },
+            "text": "Go to the Evil Hunting Grounds, hunt Bugbear Raider, until you have Bugbear Necklace \u00a0\u2014\u00a010 pcs. Talk to Captain Bathis in the middle of the Town of Gludio, get a Coin of Lords ."
+        },
+        {
+            "props": {
+                "x": "-82437",
+                "y": "150282",
+                "name": "Sir Klaus Vasper",
+                "linktext": "Step 1.10",
+                "loc": "city"
+            },
+            "text": "Talk to Sir Klaus Vasper near Warrior Guild in Gludin Village and get the reward."
+        },
+        {
+            "props": {
+                "x": "-81688",
+                "y": "149350",
+                "name": "Grand Master Ramos",
+                "linktext": "Reward",
+                "loc": "city"
+            },
+            "text": "When you get level 20, talk to Grand Master Ramos in the Warrior Guild in the Town of Gludio to transfer your class to Human Knight."
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "title": "Testimony of Fate",
+    "routeUri": "quests\/testimony-of-fate\/{lang}",
+    "routeName": "testimony-of-fate",
+    "router": "routers@TestimonyofFate",
+    "properties": {
+        "level": "37+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Dark Elf",
+        "class": "Palus Knight, Assassin, Dark Wizard, Shillien Oracle",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Kaira",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "78928",
+                "y": "149041",
+                "name": "Magister Kaira",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Kaira in the Dark Elf Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "87509",
+                "y": "149655",
+                "name": "Brother Metheus",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Brother Metheus in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "48512",
+                "y": "147312",
+                "name": "Execution Grounds",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Go to the Execution Grounds, hunt Hangman Tree, until you have Kassandra's Remains ."
+        },
+        {
+            "props": {
+                "x": "87509",
+                "y": "149655",
+                "name": "Brother Metheus",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Brother Metheus in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "87509",
+                "y": "149655",
+                "name": "Metheus|Brother Metheus",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Brother Metheus once again."
+        },
+        {
+            "props": {
+                "x": "17384",
+                "y": "146605",
+                "name": "Master Ixia",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Master Ixia in Dark Elf Guild in the Town of Dion."
+        },
+        {
+            "text": "You need to collect the ingredients for the poison: Go to the Gorgon Flower Garden, hunt Medusa, until you have Medusa's Blood \u00a0\u2014\u00a010 pcs.. Go to the Execution Grounds, hunt Corpse Tracker, until you have Corpse Tracker Dung . Go to the Wasteland, hunt Tyrant (monster) and Elder Tyrant, until you have Tyrant's Blood \u00a0\u2014\u00a010 pcs.. Go to Cruma Marshlands, hunt Marsh Stakato, Marsh Stakato Worker, Marsh Stakato Soldier, Marsh Stakato Drone, collect Nightshade Root \u00a0\u2014\u00a010 pcs., hunt Marsh Spider, collect Marsh Spider Fluids \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "17384",
+                "y": "146605",
+                "name": "Master Ixia",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Master Ixia in Dark Elf Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "87509",
+                "y": "149655",
+                "name": "Brother Metheus",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Brother Metheus in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "78928",
+                "y": "149041",
+                "name": "Magister Kaira",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Kaira in the Dark Elf Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "78928",
+                "y": "149041",
+                "name": "Alders' Spirit",
+                "linktext": "Step 11",
+                "loc": "city"
+            },
+            "text": "Alders' Spirit will appear. Talk to him."
+        },
+        {
+            "props": {
+                "x": "85297",
+                "y": "152963",
+                "name": "Magister Justin",
+                "linktext": "Step 1",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Roa in the Mage Guild in the Town of Giran. Note: choose the second answer in the list: say the Moon shines anyway."
+        },
+        {
+            "props": {
+                "x": "-81857",
+                "y": "153545",
+                "name": "Warehouse Keeper Norman",
+                "linktext": "Step 13",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Norman in the Warehouse in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "78928",
+                "y": "149041",
+                "name": "Magister Kaira",
+                "linktext": "Step 14",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Kaira in the Dark Elf Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "10775",
+                "y": "14190",
+                "name": "Great Hierarch Thifiell",
+                "linktext": "Step 15",
+                "loc": "city"
+            },
+            "text": "Talk to Great Hierarch Thifiell in Shilen Sanctum in the Dark Elf Village."
+        },
+        {
+            "props": {
+                "x": "-44015",
+                "y": "79683",
+                "name": "Witch Arkenia",
+                "linktext": "Step 16",
+                "loc": ""
+            },
+            "text": "Talk to Witch Arkenia at the Altar of Rites."
+        },
+        {
+            "text": "Collect the items: Talk to Blight Treant near Dark Elf Village. Talk to Bloody Pixy near Dark Elf Village. Go to the Swampland, hunt quest monsters Black Willow Lurker, until you have Black Willow Leaf . Go to the Breka's Stronghold, hunt Breka Orc Prefect, until you have Breka Overlord Skull . Go to the Plains of the Lizardmen, hunt Leto Lizardman Overlord, until you have Leto Overlord Skull . Go to the Hunters Valley, hunt Karul Bugbear, until you have Karul Bugbear Skull . Go to the Death Pass, hunt Grandis, until you have Grandis' Skull . Talk to Bloody Pixy near Dark Elf Village. Talk to Blight Treant near Dark Elf Village. Talk to Witch Arkenia at the Altar of Rites."
+        },
+        {
+            "props": {
+                "x": "10775",
+                "y": "14190",
+                "name": "Great Hierarch Thifiell",
+                "linktext": "Step 18",
+                "loc": "city"
+            },
+            "text": "Talk to Great Hierarch Thifiell in Shilen Sanctum in the Dark Elf Village and get the reward."
+        }
+    ]
+}

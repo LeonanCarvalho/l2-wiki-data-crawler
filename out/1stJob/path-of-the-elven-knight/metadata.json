@@ -1,0 +1,98 @@
+{
+    "title": "Path of the Elven Knight",
+    "routeUri": "quests\/path-of-the-elven-knight\/{lang}",
+    "routeName": "path-of-the-elven-knight",
+    "router": "routers@PathoftheElvenKnight",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Elf",
+        "class": "Elven Fighter",
+        "start_location": "Town of Gludio \/ Gludio Territory",
+        "start_npc": "Sorius",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-13440",
+                "y": "122643",
+                "name": "Master Sorius",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Master Sorius in the Warrior Guild in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-46576",
+                "y": "112480",
+                "name": "Ruins of Agony",
+                "linktext": "Step 1",
+                "loc": ""
+            },
+            "text": "Go to the Ruins of Agony to collect Topaz Pieces. Goals: Skeleton Tracker , Skeleton Tracker Captain, Skeleton Scout, Skeleton Bowman, Raging Spartoi. You need to get Topaz Piece \u00a0\u2014\u00a020 pcs. Map"
+        },
+        {
+            "props": {
+                "x": "-13440",
+                "y": "122643",
+                "name": "Master Sorius",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Master Sorius in the Warrior Guild in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-83172",
+                "y": "155483",
+                "name": "Blacksmith Kluto",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Head Blacksmith Kluto in the Blacksmith Workshop of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-48598",
+                "y": "152390",
+                "name": "Ol Mahum Novice",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Go to the Abandoned Camp, hunt Ol Mahum Novice, collect Emerald Piece \u00a0\u2014\u00a020 pcs. Map"
+        },
+        {
+            "props": {
+                "x": "-83172",
+                "y": "155483",
+                "name": "Blacksmith Kluto",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Head Blacksmith Kluto in the Blacksmith Workshop of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-13440",
+                "y": "122643",
+                "name": "Master Sorius",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Master Sorius in the Warrior Guild in the Town of Gludio and get the reward."
+        },
+        {
+            "props": {
+                "x": "-13579",
+                "y": "123017",
+                "name": "Grand Master Rains",
+                "linktext": "Reward",
+                "loc": "city"
+            },
+            "text": "When you get level 20, talk to Grand Master Rains in Warrior Guild in the Town of Gludio to transfer your class to Elven Knight."
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Path of the Palus Knight",
+    "routeUri": "quests\/path-of-the-palus-knight\/{lang}",
+    "routeName": "path-of-the-palus-knight",
+    "router": "routers@PathofthePalusKnight",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Dark Elf",
+        "class": "Dark Fighter",
+        "start_location": "Town of Gludio \/ Gludio Territory",
+        "start_npc": "Virgil",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-12791",
+                "y": "123259",
+                "name": "Master Virgil",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Virgil in Dark Elf Guild in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-13551",
+                "y": "78745",
+                "name": "Neutral Zone",
+                "linktext": "Step 1",
+                "loc": ""
+            },
+            "text": "Go to Neutral Zone, hunt Lycanthropes, until you have Lycanthrope Skull \u00a0\u2014\u00a013 pcs."
+        },
+        {
+            "props": {
+                "x": "-12791",
+                "y": "123259",
+                "name": "Master Virgil",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Virgil in Dark Elf Guild in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-84383",
+                "y": "149885",
+                "name": "Abyssal Celebrant Kalinta",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Abyssal Celebrant Kalinta in Dark Elf Guild in the in the Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-69232",
+                "y": "170000",
+                "name": "Windmill Hill",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Go to Windmill Hill to the south from Gludin Village or to Fellmere Harvesting Grounds to the north from Gludin Village. Hunt Giant Venomous Spider, Arachnid Tracker. You need to get Giant Venomous Spider's Carapace , Arachnid Tracker Silk \u00a0\u2014\u00a05 pcs.Map"
+        },
+        {
+            "props": {
+                "x": "-84383",
+                "y": "149885",
+                "name": "Abyssal Celebrant Kalinta",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Abyssal Celebrant Kalinta in Dark Elf Guild in the Gludin Village and get the reward."
+        },
+        {
+            "props": {
+                "x": "-12791",
+                "y": "123259",
+                "name": "Master Virgil",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Master Virgil in Dark Elf Guild of the Town of Gludio and get the reward."
+        },
+        {
+            "props": {
+                "x": "-12892",
+                "y": "123143",
+                "name": "Grand Master Tobias",
+                "linktext": "Reward",
+                "loc": "city"
+            },
+            "text": "When you get level 20, talk to Grand Master Tobias in the Dark Elf Guild in the Town of Gludio to transfer your class to Palus Knight."
+        }
+    ]
+}

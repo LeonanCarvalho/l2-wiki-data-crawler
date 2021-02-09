@@ -1,0 +1,108 @@
+{
+    "title": "Path of the Assassin",
+    "routeUri": "quests\/path-of-the-assassin\/{lang}",
+    "routeName": "path-of-the-assassin",
+    "router": "routers@PathoftheAssassin",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Dark Elf",
+        "class": "Dark Fighter",
+        "start_location": "Town of Gludio \/ Gludio Territory",
+        "start_npc": "Triskel",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-12506",
+                "y": "123405",
+                "name": "Triskel",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Triskel at the entrance to Dark Elf Guild in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-44015",
+                "y": "79683",
+                "name": "Witch Arkenia",
+                "linktext": "Step 2",
+                "loc": ""
+            },
+            "text": "Talk to Witch Arkenia at the Altar of Rites and agree to help her."
+        },
+        {
+            "props": {
+                "x": "-82822",
+                "y": "149258",
+                "name": "Guard Leikan",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Guard Leikan at the northern gate of Gludin Village and agree to help him."
+        },
+        {
+            "props": {
+                "x": "-10743",
+                "y": "85772",
+                "name": "Neutral Zone",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Go to Neutral Zone, hunt Moonstone Beasts, until you have Moonstone Beast's Molar \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "-82822",
+                "y": "149258",
+                "name": "Guard Leikan",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Guard Leikan at the northern gates of Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-51422",
+                "y": "40534",
+                "name": "Calpico",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Go to Dark Forest, to the place near School of Dark Arts where Quest Monster Calpico dwells, (guarded by 4 Quest Monsters Calpico's Pawn), and defeat Calpico to get Shilen's Tears ."
+        },
+        {
+            "props": {
+                "x": "-44015",
+                "y": "79683",
+                "name": "Witch Arkenia",
+                "linktext": "Step 7",
+                "loc": ""
+            },
+            "text": "Talk to Witch Arkenia at the Altar of Rites."
+        },
+        {
+            "props": {
+                "x": "-12506",
+                "y": "123405",
+                "name": "Triskel",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Triskel in the Town of Gludio."
+        },
+        {
+            "props": {
+                "x": "-12506",
+                "y": "123405",
+                "name": "Tobias",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "When you get level 20, talk to Grand Master Tobias in the Dark Elf Guild in the Town of Gludio to transfer your class to Assassin."
+        }
+    ]
+}

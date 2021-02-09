@@ -1,0 +1,358 @@
+{
+    "title": "Trial of the Scholar",
+    "routeUri": "quests\/trial-of-the-scholar\/{lang}",
+    "routeName": "trial-of-the-scholar",
+    "router": "routers@TrialoftheScholar",
+    "properties": {
+        "level": "35+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf",
+        "class": "Human Wizard, Elven Wizard, Dark Wizard",
+        "start_location": "Town of Dion \/ Dion Territory",
+        "start_npc": "Mirien",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "16427",
+                "y": "142131",
+                "name": "Magister Mirien",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Mirien in the Temple of the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "15795",
+                "y": "142347",
+                "name": "High Priest Sylvain",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to High Priest Sylvain in Einhasad temple in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "19041",
+                "y": "145964",
+                "name": "Maria",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Maria in the Grocery shop in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "17282",
+                "y": "147500",
+                "name": "Captain Lucas",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Lucas in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "19041",
+                "y": "145964",
+                "name": "Maria",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Maria in the Grocery shop in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "17475",
+                "y": "169556",
+                "name": "Astrologer Creta",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Astrologer Creta located at the northern gates of Floran Village, choose to ask about the thief."
+        },
+        {
+            "props": {
+                "x": "19041",
+                "y": "145964",
+                "name": "Maria",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Maria in the Grocery shop in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "17475",
+                "y": "169556",
+                "name": "Astrologer Creta",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Give the bag to Astrologer Creta in Floran Village."
+        },
+        {
+            "props": {
+                "x": "19041",
+                "y": "145964",
+                "name": "Maria",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Maria in the Grocery shop in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "17282",
+                "y": "147500",
+                "name": "Captain Lucas",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Talk to Captain Lucas in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "19041",
+                "y": "145964",
+                "name": "Maria",
+                "linktext": "Step 11",
+                "loc": "city"
+            },
+            "text": "Talk to Maria in the shop in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "96789",
+                "y": "77585",
+                "name": "Plains of the Lizardmen",
+                "linktext": "Step 12",
+                "loc": ""
+            },
+            "text": "Go to Plains of the Lizardmen. To hunt: Leto Lizardman Warrior. You need to get Brown Scroll Scrap \u00a0\u2014\u00a05 pcs."
+        },
+        {
+            "props": {
+                "x": "19041",
+                "y": "145964",
+                "name": "Maria",
+                "linktext": "Step 13",
+                "loc": "city"
+            },
+            "text": "Talk to Maria in the Grocery shop in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "15795",
+                "y": "142347",
+                "name": "High Priest Sylvain",
+                "linktext": "Step 14",
+                "loc": "city"
+            },
+            "text": "Talk to High Priest Sylvain in Einhasad temple in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "16427",
+                "y": "142131",
+                "name": "Magister Mirien",
+                "linktext": "Step 15",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Mirien in the Temple of the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "85823",
+                "y": "153248",
+                "name": "Grand Magister Jurek",
+                "linktext": "Step 16",
+                "loc": "city"
+            },
+            "text": "Talk to Grand Magister Jurek in the Mage Guild in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "-38999",
+                "y": "176701",
+                "name": "Monster Eye Destroyer",
+                "linktext": "Step 17.1",
+                "loc": ""
+            },
+            "text": "You need to destroy the evil spirits. Wasteland, Plains of Dion, Bee Hive - Monster Eye Destroyer. You need to get Monster Eye Destroyer's Skin \u00a0\u2014\u00a05 pcs. Map Map; Breka's Stronghold \u2013 Breka Orc Shaman. You need to get Shaman's Necklace \u00a0\u2014\u00a05 pcs.; Dragon Valley, Ivory Tower Crater \u2013 Shackle. You need to get Shackle's Scalp \u00a0\u2014\u00a02 pcs. Map"
+        },
+        {
+            "props": {
+                "x": "85823",
+                "y": "153248",
+                "name": "Grand Magister Jurek",
+                "linktext": "Step 18",
+                "loc": "city"
+            },
+            "text": "Talk to Grand Magister Jurek in the Mage Guild in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "16427",
+                "y": "142131",
+                "name": "Magister Mirien",
+                "linktext": "Step 19",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Mirien in the Temple of the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "117866",
+                "y": "76483",
+                "name": "Elder Cronos",
+                "linktext": "Step 20",
+                "loc": "city"
+            },
+            "text": "Talk to Elder Cronos in the Hunters Village."
+        },
+        {
+            "props": {
+                "x": "86359",
+                "y": "152970",
+                "name": "Magister Dieter",
+                "linktext": "Step 21",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Dieter in the Mage Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "17475",
+                "y": "169556",
+                "name": "Astrologer Creta",
+                "linktext": "Step 22",
+                "loc": "city"
+            },
+            "text": "Talk to Astrologer Creta at the northern gates of Floran Village."
+        },
+        {
+            "props": {
+                "x": "86359",
+                "y": "152970",
+                "name": "Magister Dieter",
+                "linktext": "Step 23",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Dieter in the Mage Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "115116",
+                "y": "75923",
+                "name": "Armor Merchant Edroc",
+                "linktext": "Step 24",
+                "loc": "city"
+            },
+            "text": "Talk to Armor Merchant Edroc in the Weapon and Armor shop in the Hunters Village."
+        },
+        {
+            "props": {
+                "x": "-81966",
+                "y": "153547",
+                "name": "Warehouse Keeper Raut",
+                "linktext": "Step 25",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Chief Raut in the Warehouse in Gludin Village and get Scripture Chapter 1 ."
+        },
+        {
+            "props": {
+                "x": "-93523",
+                "y": "152513",
+                "name": "Drunkard Triff",
+                "linktext": "Step 26",
+                "loc": ""
+            },
+            "text": "Talk to Drunkard Triff in the Gludin Harbor."
+        },
+        {
+            "props": {
+                "x": "-16895",
+                "y": "194229",
+                "name": "Elder Casian",
+                "linktext": "Step 27",
+                "loc": ""
+            },
+            "text": "Talk to Elder Casian in the middle of the Wasteland."
+        },
+        {
+            "props": {
+                "x": "83264",
+                "y": "146602",
+                "name": "Warehouse Keeper Valkon",
+                "linktext": "Step 27.1",
+                "loc": "city"
+            },
+            "text": "Collect the remaining parts of manuscript: Talk to Warehouse Keeper Valkon in the Warehouse in the Town of Giran. Talk to Maria in the Grocery Shop in the Town of Dion. Talk to Warehouse Keeper Valkon in the Warehouse in the Town of Giran and get Scripture Chapter 2 ."
+        },
+        {
+            "props": {
+                "x": "105918",
+                "y": "109759",
+                "name": "Death Pass",
+                "linktext": "Step 28.4",
+                "loc": ""
+            },
+            "text": "Go to the Death Pass, hunt Grandis, until you have Scripture Chapter 3 ."
+        },
+        {
+            "props": {
+                "x": "19737",
+                "y": "143122",
+                "name": "Poitan",
+                "linktext": "Step 28.5",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Poitan in the Blacksmith Workshop of the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "47369",
+                "y": "148157",
+                "name": "Lesser Ghoul",
+                "linktext": "Step 28.1",
+                "loc": ""
+            },
+            "text": "Talk to Elder Casian in the middle of the Wasteland and go hunting to collect the materials: Execution Grounds \u2013 Quest Monster Lesser Ghoul. You need to get Ghoul's Skin \u00a0\u2014\u00a010 pcs.; Gorgon Flower Garden \u2013 Medusa. You need to get Medusa's Blood \u00a0\u2014\u00a012 pcs.; Death Pass \u2013 Fettered Soul. You need to get Fettered Soul Fluids \u00a0\u2014\u00a05 pcs.; Ivory Tower Crater \u2013 Reinforced Gargoyle. You need to get Reinforced Gargoyle's Nail \u00a0\u2014\u00a05 pcs."
+        },
+        {
+            "props": {
+                "x": "-16895",
+                "y": "194229",
+                "name": "Elder Casian",
+                "linktext": "Step 30",
+                "loc": ""
+            },
+            "text": "Talk to Elder Casian in the middle of the Wasteland and get Scripture Chapter 4 ."
+        },
+        {
+            "props": {
+                "x": "117866",
+                "y": "76483",
+                "name": "Elder Casian",
+                "linktext": "Step 31",
+                "loc": "city"
+            },
+            "text": "Talk to Elder Cronos in the Hunters Village."
+        },
+        {
+            "props": {
+                "x": "16427",
+                "y": "142131",
+                "name": "Magister Mirien",
+                "linktext": "Step 32",
+                "loc": "city"
+            },
+            "text": "Talk to Magister Mirien in Einhasad Temple of the Town of Dion and get the reward."
+        }
+    ]
+}

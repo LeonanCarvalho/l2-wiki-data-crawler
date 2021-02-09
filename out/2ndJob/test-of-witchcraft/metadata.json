@@ -1,0 +1,158 @@
+{
+    "title": "Test of Witchcraft",
+    "routeUri": "quests\/test-of-witchcraft\/{lang}",
+    "routeName": "test-of-witchcraft",
+    "router": "routers@TestofWitchcraft",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Any race",
+        "class": "Human Knight, Human Wizard, Palus Knight",
+        "start_location": "Death Pass \/ Giran Territory",
+        "start_npc": "Orim",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "69976",
+                "y": "109692",
+                "name": "Shadow Orim",
+                "linktext": "Start of the quest",
+                "loc": ""
+            },
+            "text": "Talk to Shadow Orim in the Death Pass."
+        },
+        {
+            "props": {
+                "x": "79599",
+                "y": "145457",
+                "name": "Armor Merchant Alexandria",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Armor Merchant Alexandria in the Luxury shop of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "85289",
+                "y": "153341",
+                "name": "Magister Iker",
+                "linktext": "Step 3.1",
+                "loc": "city"
+            },
+            "text": "Collect the gems: Talk to Magister Iker in the Mystic Guild of the Town of Giran. Go to Ivory Tower Crater, hunt Reinforced Stone Golem, collect Reinforced Stone Golem Heartstone \u00a0\u2014\u00a020 pcs. Go to the Plains of the Lizardmen, hunt Leto Lizardman, Leto Lizardman Archer, Leto Lizardman Soldier, Leto Lizardman Warrior, Leto Lizardman Shaman, Leto Lizardman Overlord, collect Leto Lizardman Amulet \u00a0\u2014\u00a020 pcs. Go to the Sea of Spores, to hunt: Dire Wyrm, until you\u2019ve collected Dire Wyrm Fang \u00a0\u2014\u00a020 pcs. Talk to Magister Iker in the Mystic Guild of the Town of Giran. Talk to Magister Kaira in Dark Elf Guild in the in the Town of Gludio. Talk to Grocer Lars in the Magic shop in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "50568",
+                "y": "152408",
+                "name": "Execution Grounds",
+                "linktext": "Step 3.8",
+                "loc": ""
+            },
+            "text": "Go to the Execution Grounds, hunt Quest Monster Nameless Revenant, until you have Aklantoth 1st Gem . Talk to Accessory Merchant Nestle in the Grocery Shop in Gludin Village. Talk to Leopold at the southeastern gate of Gludin Village. Go to the Wasteland, hunt Quest Monster Skeleton Mercenary, collect Aklantoth 1st Gem , Aklantoth 1st Gem , Aklantoth 1st Gem ."
+        },
+        {
+            "props": {
+                "x": "69976",
+                "y": "109692",
+                "name": "Orim",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Talk to Shadow Orim in the Death Pass, Quest Monster Dre Vanul Prince Zeruel will appear."
+        },
+        {
+            "props": {
+                "x": "69976",
+                "y": "109692",
+                "name": "Dre Vanul Prince Zeruel",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Kill Quest Monster Dre Vanul Prince Zeruel, get 1st Brimstone ."
+        },
+        {
+            "props": {
+                "x": "69976",
+                "y": "109692",
+                "name": "Orim",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Talk to Shadow Orim in the Death Pass."
+        },
+        {
+            "props": {
+                "x": "-82437",
+                "y": "150282",
+                "name": "Sir Klaus Vasper",
+                "linktext": "Step 7.1",
+                "loc": "city"
+            },
+            "text": "Collect the items: Talk to Sir Klaus Vasper near Warrior Guild in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "83469",
+                "y": "53215",
+                "name": "Priest Vadin",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Vadin in Einhasad Temple in the Town of Oren. Go to Hunters Valley, hunt Tamlin Orc, Tamlin Orc Archer, collect Tamlin Orc Amulet \u00a0\u2014\u00a020 pcs."
+        },
+        {
+            "props": {
+                "x": "83469",
+                "y": "53215",
+                "name": "Priest Vadin",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Vadin in Einhasad Temple in the Town of Oren. Talk to Sir Klaus Vasper near Warrior Guild in Gludin Village. Talk to Magister Iker in the Mystic Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "69976",
+                "y": "109692",
+                "name": "Orim",
+                "linktext": "Step 8",
+                "loc": ""
+            },
+            "text": "Talk to Shadow Orim in the Death Pass."
+        },
+        {
+            "props": {
+                "x": "13258",
+                "y": "169790",
+                "name": "Fisher Evert",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Fisher Evert near Floran Village. Quest Monster Dre Vanul Prince Zeruel will appear."
+        },
+        {
+            "props": {
+                "x": "13258",
+                "y": "169790",
+                "name": "Dre Vanul Prince Zeruel",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Kill Quest Monster Dre Vanul Prince Zeruel using the Sword of Seal, get Purgatory Key , Zeruel Bind Crystal ."
+        },
+        {
+            "props": {
+                "x": "69976",
+                "y": "109692",
+                "name": "Orim",
+                "linktext": "Step 11",
+                "loc": ""
+            },
+            "text": "Talk to Shadow Orim in the Death Pass and get the reward."
+        }
+    ]
+}

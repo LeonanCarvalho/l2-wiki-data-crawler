@@ -1,0 +1,151 @@
+{
+    "title": "Path of the Orc Shaman",
+    "routeUri": "quests\/path-of-the-orc-shaman\/{lang}",
+    "routeName": "path-of-the-orc-shaman",
+    "router": "routers@PathoftheOrcShaman",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Orc",
+        "class": "Orc Mystic",
+        "start_location": "Orc Village \/ Schuttgart Territory",
+        "start_npc": "Tataru Zu Hestui",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-45328",
+                "y": "-114736",
+                "name": "Tataru Zu Hestui",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Tataru Zu Hestui near the House of the King in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "-3186",
+                "y": "-128809",
+                "name": "Immortal Plateau, Northern Region",
+                "linktext": "Step 2.1",
+                "loc": ""
+            },
+            "text": "Collect the items: Go to the Immortal Plateau or to Frozen Waterfalls, hunt Kasha Bear, until you have Kasha Bear Pelt , and Kasha Blade Spider, until you have Kasha Blade Spider Husk ."
+        },
+        {
+            "props": {
+                "x": "9340",
+                "y": "-112509",
+                "name": "Cave of Trials",
+                "linktext": "Step 2.2",
+                "loc": "city"
+            },
+            "text": "Go to the Cave of Trials, hunt Scarlet Salamander, until you have 1st Fiery Egg ."
+        },
+        {
+            "props": {
+                "x": "-45328",
+                "y": "-114736",
+                "name": "Tataru Zu Hestui",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Tataru Zu Hestui near the House of the King in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "-49542",
+                "y": "-109564",
+                "name": "Hestui Totem Spirit",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Hestui Totem Spirit near Orc Village."
+        },
+        {
+            "props": {
+                "x": "-45328",
+                "y": "-114736",
+                "name": "Tataru Zu Hestui",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Tataru Zu Hestui near the House of the King in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "-80389",
+                "y": "153091",
+                "name": "Priest Umos",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Umos in Orc Guild in Gludin Village. You can teleport to Gludin Village from Orc Village for free via Gatekeeper Tamil."
+        },
+        {
+            "props": {
+                "x": "-67720",
+                "y": "103358",
+                "name": "Fellmere Harvesting Grounds",
+                "linktext": "Step 7",
+                "loc": ""
+            },
+            "text": "Go to the Fellmere Harvesting Grounds, hunt Grizzly Bear, until you have Grizzly Blood \u00a0\u2014\u00a03 pcs."
+        },
+        {
+            "props": {
+                "x": "-80389",
+                "y": "153091",
+                "name": "Priest Umos",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Umos in Orc Guild in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-86162",
+                "y": "136176",
+                "name": "Duda-Mara Totem Spirit",
+                "linktext": "Step 9",
+                "loc": ""
+            },
+            "text": "Talk to Duda-Mara Totem Spirit near Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-69968",
+                "y": "116672",
+                "name": "Fellmere Harvesting Grounds",
+                "linktext": "Step 10",
+                "loc": ""
+            },
+            "text": "Go to Fellmere Harvesting Grounds, hunt Giant Venomous Spider and Arachnid Tracker, until you have Durka Parasite \u00a0\u2014\u00a05-7 pcs. Quest Monster Durka Spirit will appear. Defeat it to get Durka Spirit ."
+        },
+        {
+            "props": {
+                "x": "-86162",
+                "y": "136176",
+                "name": "Duda-Mara Totem Spirit",
+                "linktext": "Step 11",
+                "loc": ""
+            },
+            "text": "Talk to Duda-Mara Totem Spirit near Orc Village."
+        },
+        {
+            "props": {
+                "x": "-80389",
+                "y": "153091",
+                "name": "Priest Umos",
+                "linktext": "Step 12",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Umos in Orc Guild in Gludin Village and get the reward."
+        },
+        {
+            "text": "When you achieve level 20, talk to High Prefect Osborn in Orc Guild in Gludin Village or to High Prefect Drikus in Orc Guild in the Town of Gludio to transfer your class to Orc Shaman."
+        }
+    ]
+}

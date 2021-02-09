@@ -1,0 +1,71 @@
+{
+    "title": "Path of the Dark Wizard",
+    "routeUri": "quests\/path-of-the-dark-wizard\/{lang}",
+    "routeName": "path-of-the-dark-wizard",
+    "router": "routers@PathoftheDarkWizard",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Dark Elf",
+        "class": "Dark Mystic",
+        "start_location": "Altar of Rites \/ Oren Territory",
+        "start_npc": "Varika",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-44225",
+                "y": "79721",
+                "name": "Varika",
+                "linktext": "Start of the quest",
+                "loc": ""
+            },
+            "text": "Talk to Witch Varika at the Altar of Rites."
+        },
+        {
+            "props": {
+                "x": "-44015",
+                "y": "79683",
+                "name": "Witch Arkenia",
+                "linktext": "Step 1",
+                "loc": ""
+            },
+            "text": "Collect the seeds of Anger, Horror and Lunacy: RIGHT after talking to Witch Varika at the Altar of Rites talk to Witch Arkenia at the Altar of Rites, she'll give you the task for the third stage of the quest. Talk to Annika near the School of Dark Arts."
+        },
+        {
+            "props": {
+                "x": "-47543",
+                "y": "58478",
+                "name": "School of Dark Arts",
+                "linktext": "Step 2.3",
+                "loc": "city"
+            },
+            "text": "Go to the School of Dark Arts, hunt Skeleton Hunter, Skeleton Hunter Archer and other sceletons, collect Knee Bone \u00a0\u2014\u00a02 pcs. Talk to Annika near the School of Dark Arts. Talk to Charkeren at the Black Rock Hill. Go to the Swampland, hunt Zombie Forest Elf, collect Family's Remains \u00a0\u2014\u00a03 pcs. Talk to Charkeren at the Black Rock Hill. Go to the Ruins of Agony, hunt Skeleton Scout, collect Heart of Lunacy \u00a0\u2014\u00a03 pcs."
+        },
+        {
+            "props": {
+                "x": "-44015",
+                "y": "79683",
+                "name": "Witch Arkenia",
+                "linktext": "Step 9",
+                "loc": ""
+            },
+            "text": "Talk to Witch Arkenia at the Altar of Rites."
+        },
+        {
+            "props": {
+                "x": "-44225",
+                "y": "79721",
+                "name": "Witch Varika",
+                "linktext": "Step 2.10",
+                "loc": ""
+            },
+            "text": "Talk to Witch Varika at the Altar of Rites and get the reward."
+        },
+        {
+            "text": "When you get level 20, talk to High Priest in Dark Elf Guild in the Town of Gludio or Gludin Village to transfer your class."
+        }
+    ]
+}

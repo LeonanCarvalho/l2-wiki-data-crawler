@@ -1,0 +1,48 @@
+{
+    "title": "Test of the Maestro",
+    "routeUri": "quests\/test-of-the-maestro\/{lang}",
+    "routeName": "test-of-the-maestro",
+    "router": "routers@TestoftheMaestro",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Dwarf",
+        "class": "Artisan",
+        "start_location": "Dwarven Village \/ Schuttgart Territory",
+        "start_npc": "Lockirin",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "116226",
+                "y": "-178529",
+                "name": "Lockirin",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Iron Gate's Lockirin in the Chief Hall in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "116016",
+                "y": "-178615",
+                "name": "Balanki",
+                "linktext": "Step 2.1",
+                "loc": "city"
+            },
+            "text": "Get 3 recommendations: Talk to Golden Wheel's Balanki in the Chief Hall in the Dwarven Village. Talk to Chief Croto in the Dwarven Village. Go to the Cave of Trials, find Kamuru's Corpse. Explore it and walk throught the fake wall in the cell. Find the quest monster: Evil Eye Lord, kill it and get Kamuru's Necklace . Talk to Chief Croto in the Dwarven Village. Talk to Golden Wheel's Balanki in the Chief Hall in the Dwarven Village. Talk to Golden Wheel's Arin in the Chief Hall in the Dwarven Village. Talk to Master Toma on the northeastern coast of the island, choose to help and to press the button. You'll be teleported to the mountains. Three aggressive monsters will attack. Kill them. Talk to Master Toma on the northeastern coast of the island. Talk to Golden Wheel's Arin in the Chief Hall in the Dwarven Village. Talk to Golden Wheel's Filaur in the Chief Hall in the Dwarven Village. Talk to Researcher Lorain located at the entrance to the Cruma Tower. Go to Cruma Marshlands, hunt Weird Wasp, collect Weird Wasp Needle \u00a0\u2014\u00a010 pcs., Giant Mist Leech, collect Leech Blood Vial \u00a0\u2014\u00a010 pcs., Marsh Spider, collect Marsh Spider's Web \u00a0\u2014\u00a010 pcs. Talk to Researcher Lorain located at the entrance to the Cruma Tower. Talk to Golden Wheel's Filaur in the Chief Hall in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "116226",
+                "y": "-178529",
+                "name": "Iron Gate's Lockirin",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Iron Gate's Lockirin in the Chief Hall in the Dwarven Village and get the reward."
+        }
+    ]
+}

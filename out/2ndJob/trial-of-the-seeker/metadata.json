@@ -1,0 +1,174 @@
+{
+    "title": "Trial of the Seeker",
+    "routeUri": "quests\/trial-of-the-seeker\/{lang}",
+    "routeName": "trial-of-the-seeker",
+    "router": "routers@TrialoftheSeeker",
+    "properties": {
+        "level": "35+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf",
+        "class": "Rogue, Elven Scout, Assassin",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Dufner",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "85234",
+                "y": "146634",
+                "name": "Master Dufner",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Master Dufner in Warrior Guild of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "19708",
+                "y": "144780",
+                "name": "Master Terry",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Master Terry in Warrior Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "53269",
+                "y": "151567",
+                "name": "Execution Grounds",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Go to the Execution Grounds, hunt Neer Crawler Berserker, until you have Mysterious Spirit Ore . Map"
+        },
+        {
+            "props": {
+                "x": "19708",
+                "y": "144780",
+                "name": "Master Terry",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Master Terry in Warrior Guild in the Town of Dion."
+        },
+        {
+            "text": "You need to track other mutants. To hunt: Partisan's Hideaway - Ol Mahum Captain; Orc Barracks - Turek Orc Prefect; Wasteland or Ant Nest - Ant Captain; Gorgon Flower Garden - Turak Bugbear Warrior. You need to get Ol Mahum Spirit Ore , Turek Spirit Ore , Ant Spirit Ore , Turak Bugbear Spirit Ore ."
+        },
+        {
+            "props": {
+                "x": "19708",
+                "y": "144780",
+                "name": "Master Terry",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Master Terry in Warrior Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "115310",
+                "y": "75447",
+                "name": "Weapon Merchant Viktor",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Weapon Merchant Viktor in the Weapon and Armor Shop in Hunters Village (Viktor will ask you about the name of the archer, say Altebar Kerrios)."
+        },
+        {
+            "props": {
+                "x": "19708",
+                "y": "144780",
+                "name": "Master Terry",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Master Terry in Warrior Guild in the Town of Dion."
+        },
+        {
+            "props": {
+                "x": "115310",
+                "y": "75447",
+                "name": "Weapon Merchant Vikto",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Weapon Merchant Viktor in the Weapon and Armor shop in the Hunters Village."
+        },
+        {
+            "props": {
+                "x": "120480",
+                "y": "131488",
+                "name": "Gorgon Flower Garden",
+                "linktext": "Step 9",
+                "loc": ""
+            },
+            "text": "Go to the Gorgon Flower Garden, hunt Medusa, until you have Medusa's Scales \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "115310",
+                "y": "75447",
+                "name": "Weapon Merchant Vikto",
+                "linktext": "Step 11",
+                "loc": "city"
+            },
+            "text": "Talk to Weapon Merchant Viktor in the Weapon and Armor shop in the Hunters Village."
+        },
+        {
+            "props": {
+                "x": "84985",
+                "y": "15991",
+                "name": "Magister Marina",
+                "linktext": "Step 12",
+                "loc": ""
+            },
+            "text": "Talk to Magister Marina on the second floor of the Ivory Tower."
+        },
+        {
+            "props": {
+                "x": "115315",
+                "y": "-182155",
+                "name": "Blacksmith Brunon",
+                "linktext": "Step 13",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Brunon in the Blacksmith Shop in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "84985",
+                "y": "15991",
+                "name": "Magister Marina",
+                "linktext": "Step 14",
+                "loc": ""
+            },
+            "text": "Talk to Magister Marina on the second floor of the Ivory Tower."
+        },
+        {
+            "props": {
+                "x": "19708",
+                "y": "144780",
+                "name": "Master Terry",
+                "linktext": "Step 15",
+                "loc": "city"
+            },
+            "text": "Talk to Master Terry in Warrior Guild in the Town of Dion."
+        },
+        {
+            "text": "You need to destroy monsters and get the stones. To hunt: Cruma Marshlands \u2013 Marsh Stakato Drone; Breka's Stronghold \u2013 Breka Orc Prefect; Wasteland or Ant Nest \u2013 Ant Warrior Captain; Plains of the Lizardmen \u2013 Leto Lizardman Warrior. You need to get Dark Bezoar , Dark Bezoar , Dark Bezoar , Dark Bezoar ."
+        },
+        {
+            "props": {
+                "x": "19708",
+                "y": "144780",
+                "name": "Master Terry",
+                "linktext": "Step 17",
+                "loc": "city"
+            },
+            "text": "Talk to Master Terry in Warrior Guild in the Town of Dion."
+        }
+    ]
+}

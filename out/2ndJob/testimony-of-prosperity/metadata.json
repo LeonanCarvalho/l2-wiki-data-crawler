@@ -1,0 +1,108 @@
+{
+    "title": "Testimony of Prosperity",
+    "routeUri": "quests\/testimony-of-prosperity\/{lang}",
+    "routeName": "testimony-of-prosperity",
+    "router": "routers@TestimonyofProsperity",
+    "properties": {
+        "level": "37+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Dwarf",
+        "class": "Scavenger, Artisan",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Parman",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "83263",
+                "y": "146736",
+                "name": "Warehouse Keeper Parman",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Parman in the Warehouse of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "21491",
+                "y": "145968",
+                "name": "Guard Bright",
+                "linktext": "Step 2.1",
+                "loc": "city"
+            },
+            "text": "Collect the proofs of success: Talk to Guard Bright at the eastern gate of the Town of Dion. Go to the Cruma Marshlands, hunt Giant Crimson Ant, collect Crimson Moss \u00a0\u2014\u00a010 pcs. Go to the Execution Grounds, hunt Mandragora, Mandragora Sapling, Mandragora Blossom, until you have Mandragora Petal \u00a0\u2014\u00a020 pcs. Talk to Guard Bright at the eastern gate of the Town of Dion. Talk to Emily in the Town of Dion. Talk to Piotur in Orc Barracks. Talk to Warehouse Keeper Wilford in the Talking Island Village, choose the option about the elf. Talk to Lilith in the Temple of the Talking Island Village. Talk to Iron Gate's Lockirin in the Chief Hall in the Dwarven Village. Talk to Golden Wheel's Spiron in the house of the Elders in the Dwarven Village. Talk to Golden Wheel's Balanki in the house of the Elders in the Dwarven Village. Talk to Golden Wheel's Keef in the Chief Hall in the Dwarven Village. Talk to Golden Wheel's Filaur in the house of the Elders in the Dwarven Village. Talk to Golden Wheel's Arin in the Chief Hall in the Dwarven Village. Talk to Grocer Mion in the Grocery Shop in the Dwarven Village. Talk to Carrier Torocco in the Dwarven Village. Talk to Miner Bolter near Dwarven Village. Talk to Armor Merchant Shari in the Weapon and Armor shop in the Dwarven Village. Talk to Maryse Redbonnet in the Dwarven Village. Bring Animal Skin \u00a0\u2014\u00a010 pcs. to Maryse Redbonnet. Talk to Master Toma on the northern coast of the island. Talk to Golden Wheel's Spiron in the house of the Elders in the Dwarven Village. Talk to Golden Wheel's Balanki in the house of the Elders in the Dwarven Village. Talk to Golden Wheel's Keef in the Chief Hall in the Dwarven Village. Talk to Golden Wheel's Filaur in the house of the Elders in the Dwarven Village. Talk to Golden Wheel's Arin in the Chief Hall in the Dwarven Village. Talk to Iron Gate's Lockirin in the Chief Hall in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "83263",
+                "y": "146736",
+                "name": "Warehouse Keeper Parman",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Parman in the Warehouse of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "10580",
+                "y": "118027",
+                "name": "Maestro Nikola",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Maestro Nikola in the Cruma Marshlands."
+        },
+        {
+            "props": {
+                "x": "15433",
+                "y": "119727",
+                "name": "Box Of Titan",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Go to Cruma Tower to the 3rd floor, find the Box Of Titan, explore it to get Pattern of Keyhole ."
+        },
+        {
+            "props": {
+                "x": "10580",
+                "y": "118027",
+                "name": "Maestro Nikola",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Maestro Nikola in the Cruma Marshlands."
+        },
+        {
+            "props": {
+                "x": "14368",
+                "y": "114176",
+                "name": "Cruma Marshlands",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Go to Cruma Marshlands, hunt Marsh Stakato, Toad Lord, Marsh Spider, collect Stakato Shell \u00a0\u2014\u00a020 pcs., Marsh Spider's Thorn \u00a0\u2014\u00a010 pcs., Toad Lord Sac \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "15433",
+                "y": "119727",
+                "name": "Box Of Titan",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Add Recipe: Lesser Giant's Key to your recipe book, you'll need: Stakato Shell \u00a0\u2014\u00a020 pcs., Marsh Spider's Thorn \u00a0\u2014\u00a010 pcs., Toad Lord Sac \u00a0\u2014\u00a010 pcs., Crystal (D-grade) \u00a0\u2014\u00a010 pcs. Go to Cruma Tower to the 3rd floor, find the Box Of Titan, explore it to get Maphr Tablet Fragment ."
+        },
+        {
+            "props": {
+                "x": "83263",
+                "y": "146736",
+                "name": "Warehouse Keeper Parman",
+                "linktext": "Step 8",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Parman in the Warehouse of the Town of Giran and get the reward."
+        }
+    ]
+}

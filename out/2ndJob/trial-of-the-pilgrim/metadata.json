@@ -1,0 +1,198 @@
+{
+    "title": "Trial of the Pilgrim",
+    "routeUri": "quests\/trial-of-the-pilgrim\/{lang}",
+    "routeName": "trial-of-the-pilgrim",
+    "router": "routers@TrialofthePilgrim",
+    "properties": {
+        "level": "35+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf, Orc",
+        "class": "Cleric, Elven Oracle, Shillien Oracle, Orc Shaman",
+        "start_location": "Orc Barracks \/ Gludio Territory",
+        "start_npc": "Santiago",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-85002",
+                "y": "105749",
+                "name": "Hermit Santiago",
+                "linktext": "Start of the quest",
+                "loc": ""
+            },
+            "text": "Talk to Hermit Santiago in Orc Barracks. The Hermit wants you to make a journey and visit Tanapi to learn about Pa'agrio; Gauri Twinklerock to learn about Maphr; Priest Primos to learn about Einhasad; and Andelli to learn about Eva and Shilen."
+        },
+        {
+            "props": {
+                "x": "-45863",
+                "y": "-112621",
+                "name": "Priest Tanapi",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Tanapi in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "9424",
+                "y": "-112528",
+                "name": "Cave of Trials",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Go to the Cave of Trials and talk to Ancestor Martankus."
+        },
+        {
+            "props": {
+                "x": "-52832",
+                "y": "190720",
+                "name": "Forgotten Temple",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Go to the Forgotten Temple, hunt Quest Monster Lava Salamander, until you have Essence of Flame ."
+        },
+        {
+            "props": {
+                "x": "9424",
+                "y": "-112528",
+                "name": "Cave of Trials",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Go back to the Cave of Trials and talk to Ancestor Martankus."
+        },
+        {
+            "props": {
+                "x": "-45863",
+                "y": "-112621",
+                "name": "Priest Tanapi",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Tanapi in the Orc Village."
+        },
+        {
+            "props": {
+                "x": "115563",
+                "y": "-182923",
+                "name": "Gauri Twinklerock",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Gauri Twinklerock in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "114990",
+                "y": "-177294",
+                "name": "Head Priest of the Earth Gerald",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Head Priest of the Earth Gerald Map (You can pay 5000 Adena, or, if you refuse to pay, talk to Wanderer Dorf)."
+        },
+        {
+            "props": {
+                "x": "86472",
+                "y": "148848",
+                "name": "Priest Primos",
+                "linktext": "Step 9",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Primos in Einhasad Temple in the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "-85186",
+                "y": "245001",
+                "name": "Priest Petron",
+                "linktext": "Step 10",
+                "loc": "city"
+            },
+            "text": "Talk to High Priest Petron in the Temple of the Talking Island Village."
+        },
+        {
+            "props": {
+                "x": "-112720",
+                "y": "234880",
+                "name": "Elven Ruins",
+                "linktext": "Step 11",
+                "loc": ""
+            },
+            "text": "Go under the Elven Ruins, hunt Quest Monster Nahir, until you have Hair of Nahir ."
+        },
+        {
+            "props": {
+                "x": "-85186",
+                "y": "245001",
+                "name": "Priest Petron",
+                "linktext": "Step 12",
+                "loc": "city"
+            },
+            "text": "Go back to High Priest Petron in the Temple of the Talking Island Village."
+        },
+        {
+            "props": {
+                "x": "46475",
+                "y": "50495",
+                "name": "Andellia",
+                "linktext": "Step 13",
+                "loc": "city"
+            },
+            "text": "Talk to Andellia in the Elven Village.Map"
+        },
+        {
+            "props": {
+                "x": "-10596",
+                "y": "57768",
+                "name": "Black Willow",
+                "linktext": "Step 14",
+                "loc": ""
+            },
+            "text": "Go to the waterfall near Black Rock Hill and hunt quest monsters Black Willow, until you have Debris of Willow ."
+        },
+        {
+            "props": {
+                "x": "-11692",
+                "y": "57028",
+                "name": "Uruha",
+                "linktext": "Step 15",
+                "loc": ""
+            },
+            "text": "Talk to Uruha near the waterfall near Black Rock Hill and get the Book of Darkness ."
+        },
+        {
+            "props": {
+                "x": "46475",
+                "y": "50495",
+                "name": "Andellia",
+                "linktext": "Step 16",
+                "loc": "city"
+            },
+            "text": "Go back to Andellia in the Elven Village. Choose to burn the book of darkness."
+        },
+        {
+            "props": {
+                "x": "-16895",
+                "y": "194229",
+                "name": "Elder Casian",
+                "linktext": "Step 17",
+                "loc": ""
+            },
+            "text": "Talk to Elder Casian in the middle of the Wasteland and get the Book of Sage ."
+        },
+        {
+            "props": {
+                "x": "-85002",
+                "y": "105749",
+                "name": "Hermit Santiago",
+                "linktext": "Step 18",
+                "loc": ""
+            },
+            "text": "Talk to Hermit Santiago in Orc Barracks and get the reward."
+        }
+    ]
+}

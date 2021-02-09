@@ -1,0 +1,51 @@
+{
+    "title": "Path of the Elven Wizard",
+    "routeUri": "quests\/path-of-the-elven-wizard\/{lang}",
+    "routeName": "path-of-the-elven-wizard",
+    "router": "routers@PathoftheElvenWizard",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Elf",
+        "class": "Elven Mystic",
+        "start_location": "Elven Village \/ Oren Territory",
+        "start_npc": "Rosella",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "43673",
+                "y": "49683",
+                "name": "Rosella",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Rosella in the Elven Village."
+        },
+        {
+            "props": {
+                "x": "43673",
+                "y": "49683",
+                "name": "Rosella",
+                "linktext": "Step 2.1",
+                "loc": "city"
+            },
+            "text": "Collect the stones: Talk to Rosella in the Elven Village, choose 'Ruby'. Talk to Magister Greenis in the Temple of the Elven Village. Go to the Elven Forest, near the bridge to the Neutral Zone kill Pincer Spider, collect Red Down \u00a0\u2014\u00a05 pcs. Talk to Magister Greenis in the Temple of the Elven Village. Talk to Rosella in the Elven Village, choose 'Aquamarine'. Talk to Thalia near Iris Lake. Go to the Elven Forest, hunt Dryad Elder, until you have Gold Leaves \u00a0\u2014\u00a05 pcs. Talk to Thalia near Iris Lake. Talk to Rosella in the Elven Village, choose 'Amethyst'. Talk to Northwind at the entrance to the Elven Fortress. Go to the Elven Fortress, hunt Sukar Ratman Captain, until you have Amethyst \u00a0\u2014\u00a02 pcs. Talk to Northwind at the entrance to the Elven Fortress."
+        },
+        {
+            "props": {
+                "x": "43673",
+                "y": "49683",
+                "name": "Rosella",
+                "linktext": "Step 2.13",
+                "loc": "city"
+            },
+            "text": "Talk to Rosella in the Elven Village and get the reward."
+        },
+        {
+            "text": "When you get level 20, talk to High Priest in Einhasad Temple in the Town of Gludio or Gludin Village to transfer your class."
+        }
+    ]
+}

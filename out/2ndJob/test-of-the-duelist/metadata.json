@@ -1,0 +1,68 @@
+{
+    "title": "Test of the Duelist",
+    "routeUri": "quests\/test-of-the-duelist\/{lang}",
+    "routeName": "test-of-the-duelist",
+    "router": "routers@TestoftheDuelist",
+    "properties": {
+        "level": "39+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human, Elf, Dark Elf, Orc",
+        "class": "Warrior, Elven Knight, Palus Knight, Monk",
+        "start_location": "Town of Oren \/ Oren Territory",
+        "start_npc": "Kaien",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "79610",
+                "y": "56717",
+                "name": "Duelist Kaien",
+                "linktext": "Step 1",
+                "loc": "city"
+            },
+            "text": "Talk to Duelist Kaien in Warrior Guild in the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "-16526",
+                "y": "208032",
+                "name": "Wasteland",
+                "linktext": "Step 2.1",
+                "loc": ""
+            },
+            "text": "Follow the orders of Duelist Kaien: Go to the Wasteland, hunt Puncher, collect Puncher's Shard \u00a0\u2014\u00a010 pcs. Go to Ant Nest, hunt Noble Ant Captain, collect Noble Ant's Feeler \u00a0\u2014\u00a010 pcs. Go to the Cruma Marshlands, hunt Marsh Stakato Drone, collect Drone's Chitin \u00a0\u2014\u00a010 pcs. Go to the Execution Grounds, hunt Corpse Tracker, until you have Corpse Tracker Fang \u00a0\u2014\u00a010 pcs. Go to Breka's Stronghold, hunt Breka Orc Prefect, collect Prefect's Necklace \u00a0\u2014\u00a010 pcs. Go to the Death Pass, kill Fettered Soul and collect Fettered Soul's Chain \u00a0\u2014\u00a010 pcs. Go to Hunters Valley, hunt Tamlin Orc to collect Tamlin Orc's Ring \u00a0\u2014\u00a010 pcs., Tamlin Orc Archer, collect Tamlin Orc's Arrow \u00a0\u2014\u00a010 pcs. Go to Ivory Tower Crater, hunt Reinforced Monster Eye, collect Reinforced Monster Eye Meat \u00a0\u2014\u00a010 pcs. Go to the Plains of the Lizardmen, hunt Leto Lizardman Overlord, collect Chief's Amulet \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "79610",
+                "y": "56717",
+                "name": "Duelist Kaien",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Duelist Kaien in Warrior Guild in the Town of Oren."
+        },
+        {
+            "props": {
+                "x": "17225",
+                "y": "114173",
+                "name": "Cruma Tower",
+                "linktext": "Step 4.1",
+                "loc": "city"
+            },
+            "text": "Follow the last order: Go to Cruma Tower, on the third floor hunt Krator, collect Krator's Shard \u00a0\u2014\u00a03 pcs., and Excuro, collect Excuro's Skin \u00a0\u2014\u00a03 pcs. Go to the Death Pass, kill Grandis and collect Grandis' Skin \u00a0\u2014\u00a03 pcs. Go to Hunters Valley, kill Lakin and collect Lakin's Mace \u00a0\u2014\u00a03 pcs. Go to Timak Outpost, hunt Timak Orc Prefect, until you have Timak Orc's Belt \u00a0\u2014\u00a03 pcs."
+        },
+        {
+            "props": {
+                "x": "79610",
+                "y": "56717",
+                "name": "Duelist Kaien",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Duelist Kaien in Warrior Guild in the Town of Oren and get the reward."
+        }
+    ]
+}

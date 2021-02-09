@@ -1,0 +1,174 @@
+{
+    "title": "Trial of the Guildsman",
+    "routeUri": "quests\/trial-of-the-guildsman\/{lang}",
+    "routeName": "trial-of-the-guildsman",
+    "router": "routers@TrialoftheGuildsman",
+    "properties": {
+        "level": "35+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Dwarf",
+        "class": "Scavenger, Artisan",
+        "start_location": "Town of Giran \/ Giran Territory",
+        "start_npc": "Valkon",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "83264",
+                "y": "146602",
+                "name": "Warehouse Keeper Valkon",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Valkon in the Warehouse in the Town of Giran and agree to pay 2,000 adena."
+        },
+        {
+            "props": {
+                "x": "-85026",
+                "y": "242689",
+                "name": "Blacksmith Altran",
+                "linktext": "Step 1",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Altran in the middle of the Talking Island Village."
+        },
+        {
+            "props": {
+                "x": "83264",
+                "y": "146602",
+                "name": "Warehouse Keeper Valkon",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Valkon in the Warehouse of the Town of Giran."
+        },
+        {
+            "props": {
+                "x": "40045",
+                "y": "149627",
+                "name": "Mandragora Farm",
+                "linktext": "Step 3",
+                "loc": ""
+            },
+            "text": "Go to the Execution Grounds, hunt Mandragora, Mandragora Sapling, Mandragora Blossom, until you have Mandragora Berry ."
+        },
+        {
+            "props": {
+                "x": "-85026",
+                "y": "242689",
+                "name": "Blacksmith Altran",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Altran in the middle of the Talking Island Village. Recipe: Journeyman Ring - add it to your recipe book by double-clicking."
+        },
+        {
+            "text": "Gather the items required for the rings: Journeyman Deco Beads \u00a0\u2014\u00a07 pcs. and Journeyman Gem \u00a0\u2014\u00a07 pcs."
+        },
+        {
+            "props": {
+                "x": "-15349",
+                "y": "124763",
+                "name": "Pinter",
+                "linktext": "Step 5.2",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Pinter in the Blacksmith Shop in the Town of Gludio and carry out his request to get Journeyman Deco Beads \u00a0\u2014\u00a07 pcs. If your characters is an Artisan - Recipe: Amber Bead - just add it to you recipe book (by double-clicking)."
+        },
+        {
+            "props": {
+                "x": "-9959",
+                "y": "176184",
+                "name": "Ant Nest",
+                "linktext": "Step 5.3",
+                "loc": ""
+            },
+            "text": "Go to Ant Nest, hunt Ant and Ant Captain, collect Amber Bead \u00a0\u2014\u00a070 pcs. If your character is an Artisan, you'll get Amber Bead \u00a0\u2014\u00a05 pcs. from mobs, you may also get Amber Lump , used for making Amber Bead \u00a0\u2014\u00a05 pcs. If your character is a Scavenger, you'll get Amber Bead \u00a0\u2014\u00a05 pcs. from mobs, and Amber Bead \u00a0\u2014\u00a010 pcs. when using Spoil. Talk to Blacksmith Pinter in the Blacksmith Shop in the Town of Gludio, get Journeyman Deco Beads \u00a0\u2014\u00a07 pcs."
+        },
+        {
+            "props": {
+                "x": "-81857",
+                "y": "153545",
+                "name": "Warehouse Keeper Norman",
+                "linktext": "Step 5.1",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Norman in the Warehouse of Gludin Village and carry out his request to get Journeyman Gem \u00a0\u2014\u00a07 pcs."
+        },
+        {
+            "props": {
+                "x": "117613",
+                "y": "75310",
+                "name": "Blacksmith Duning",
+                "linktext": "Step 5.5",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Duning in the Blacksmith Shop in Hunters Village."
+        },
+        {
+            "props": {
+                "x": "85546",
+                "y": "131328",
+                "name": "Breka's Stronghold",
+                "linktext": "Step 5.6",
+                "loc": ""
+            },
+            "text": "Go to Breka's Stronghold, hunt Breka Orc, Breka Orc Archer, Breka Orc Warrior, Breka Orc Shaman and Breka Orc Prefect until you have Duning's Key \u00a0\u2014\u00a030 pcs."
+        },
+        {
+            "props": {
+                "x": "117613",
+                "y": "75310",
+                "name": "Blacksmith Duning",
+                "linktext": "Step 5.7",
+                "loc": "city"
+            },
+            "text": "Talk to Blacksmith Duning in the Blacksmith Shop in Hunters Village."
+        },
+        {
+            "props": {
+                "x": "-81857",
+                "y": "153545",
+                "name": "Warehouse Keeper Norman",
+                "linktext": "Step 5.8",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Norman in the Warehouse in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "50568",
+                "y": "152408",
+                "name": "Execution Grounds",
+                "linktext": "Step 5.9",
+                "loc": ""
+            },
+            "text": "Collect the necessary materials: Go to Execution Grounds, hunt Quest monsters Lesser Granite Golem, until you have Granite Whetstone \u00a0\u2014\u00a070 pcs.; Quest monsters Lesser Corpse Tracker, until you have Red Pigment \u00a0\u2014\u00a070 pcs.; Quest monsters Lesser Strain and Lesser Ghoul, until you have Grey Bone Powder \u00a0\u2014\u00a070 pcs. Go to the Plains of Dion, hunt Silenos, until you have Braided Yarn \u00a0\u2014\u00a070 pcs."
+        },
+        {
+            "props": {
+                "x": "-81857",
+                "y": "153545",
+                "name": "Warehouse Keeper Norman",
+                "linktext": "Step 5.11",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Norman in the Warehouse of Gludin Village to get Journeyman Gem \u00a0\u2014\u00a07 pcs."
+        },
+        {
+            "text": "Craft Journeyman Ring \u00a0\u2014\u00a07 pcs., for each ring you need the following: Journeyman Deco Beads \u00a0\u2014\u00a01 pcs. Journeyman Gem \u00a0\u2014\u00a01 pcs. Steel \u00a0\u2014\u00a01 pcs. Varnish \u00a0\u2014\u00a010 pcs. Crystal (D-grade) \u00a0\u2014\u00a010 pcs."
+        },
+        {
+            "props": {
+                "x": "83264",
+                "y": "146602",
+                "name": "Warehouse Keeper Valkon",
+                "linktext": "Step 6",
+                "loc": "city"
+            },
+            "text": "Talk to Warehouse Keeper Valkon in the Warehouse of the Town of Giran and get the reward."
+        }
+    ]
+}

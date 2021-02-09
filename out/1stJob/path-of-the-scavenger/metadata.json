@@ -1,0 +1,104 @@
+{
+    "title": "Path of the Scavenger",
+    "routeUri": "quests\/path-of-the-scavenger\/{lang}",
+    "routeName": "path-of-the-scavenger",
+    "router": "routers@PathoftheScavenger",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Dwarf",
+        "class": "Dwarven Fighter",
+        "start_location": "Dwarven Village \/ Schuttgart Territory",
+        "start_npc": "Pippi",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "115618",
+                "y": "-183265",
+                "name": "Pippi",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Collector Pippi in the Bronze Key Guild in the Dwarven Village."
+        },
+        {
+            "props": {
+                "x": "116268",
+                "y": "-177524",
+                "name": "Mion",
+                "linktext": "Step 2",
+                "loc": "city"
+            },
+            "text": "Talk to Grocer Mion in Grocery shop in the Dwarven Village.Map"
+        },
+        {
+            "text": "Mion asks you to deliver a parcel to one of the NPCs: Head Blacksmith Bronk, Master Rosheria, or Head Priest of the Earth Zimenf."
+        },
+        {
+            "props": {
+                "x": "116268",
+                "y": "-177524",
+                "name": "Grocer Mion",
+                "linktext": "Step 4",
+                "loc": "city"
+            },
+            "text": "Talk to Grocer Mion in the Grocery Shop in the Dwarven Village. You may have to repeat steps 3-4 several times until Mion gives you Mion's Letter ."
+        },
+        {
+            "props": {
+                "x": "154132",
+                "y": "-220070",
+                "name": "Master Toma",
+                "linktext": "Step 5",
+                "loc": ""
+            },
+            "text": "Talk to Master Toma in one of the following locations: To the northeast from the Western Mining Zone, one a small island by the sea. At the northern entrance to Mithril Mines Map At the bottom the the spiral-looking mine near the entrance to the Abandoned Coal Mines."
+        },
+        {
+            "props": {
+                "x": "137311",
+                "y": "-198794",
+                "name": "Western Mining Zone",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "To go the Western Mining Zone, hunt Hunter Bear, so Quest Monster Honey Bear would appear. Use Spoil and Sweeper, to get a Honey Jar - collect Honey Jar \u00a0\u2014\u00a05 pcs."
+        },
+        {
+            "props": {
+                "x": "154132",
+                "y": "-220070",
+                "name": "Master Toma",
+                "linktext": "Step 7",
+                "loc": ""
+            },
+            "text": "Talk to Master Toma in one of the following locations: To the northeast from the Western Mining Zone, one a small island by the sea. At the northern entrance to Mithril Mines Map At the bottom the the spiral-looking mine near the entrance to the Abandoned Coal Mines."
+        },
+        {
+            "props": {
+                "x": "142256",
+                "y": "-209008",
+                "name": "Western Mining Zone",
+                "linktext": "Step 8",
+                "loc": ""
+            },
+            "text": "Go to the Western Mining Zone, hunt Plunder Tarantula and Hunter Tarantula, using Spoil and Sweeper, until you have Bead \u00a0\u2014\u00a020 pcs."
+        },
+        {
+            "props": {
+                "x": "154132",
+                "y": "-220070",
+                "name": "Master Toma",
+                "linktext": "Step 9",
+                "loc": ""
+            },
+            "text": "Talk to Master Toma in one of the locations. Choose the furthest. To the northeast from the Western Mining Zone, one a small island by the sea. At the northern entrance to Mithril Mines Map At the bottom the the spiral-looking mine near the entrance to the Abandoned Coal Mines. Talk to Warehouse Chief Raut in the Warehouse in Gludin Village. Talk to Torai in the Death Pass. Talk to Warehouse Chief Raut in the Warehouse in Gludin Village and get the reward."
+        },
+        {
+            "text": "When you achieve level 20, talk to a Warehouse Chief in Gludin Village or Town of Gludio to transfer your class."
+        }
+    ]
+}

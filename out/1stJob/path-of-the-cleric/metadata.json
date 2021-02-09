@@ -1,0 +1,118 @@
+{
+    "title": "Path of the Cleric",
+    "routeUri": "quests\/path-of-the-cleric\/{lang}",
+    "routeName": "path-of-the-cleric",
+    "router": "routers@PathoftheCleric",
+    "properties": {
+        "level": "19+",
+        "quest_type": "<span class=\"trn\" data-trn-key=\"mission_completion_one\"><\/span>",
+        "restrictions": "None",
+        "race": "Human",
+        "class": "Human Mystic",
+        "start_location": "Gludin Village \/ Gludio Territory",
+        "start_npc": "Zigaunt",
+        "reward": []
+    },
+    "steps": [
+        {
+            "props": {
+                "x": "-79256",
+                "y": "150676",
+                "name": "Priest Zigaunt",
+                "linktext": "Start of the quest",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Zigaunt in Einhasad Temple in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-15132",
+                "y": "123282",
+                "name": "Armor Merchant Simplon",
+                "linktext": "Step 1.1",
+                "loc": "city"
+            },
+            "text": "Return all the books sold by Armor Merchant Simplon: Talk to Armor Merchant Simplon in the Weapon and Armor shop on the Town of Gludio, get Book of Simplon \u00a0\u2014\u00a03 pcs. Talk to Priestess Vivyan in Einhasad Temple in the Town of Gludio, get Book of Vivyan ."
+        },
+        {
+            "props": {
+                "x": "-16623",
+                "y": "124028",
+                "name": "Guard Praga",
+                "linktext": "Step 1",
+                "loc": "city"
+            },
+            "text": "Talk to Guard Praga at the western gate of the Town of Gludio. Go to the Ruins of Agony, hunt Ruin Zombie and Ruin Zombie Leader."
+        },
+        {
+            "props": {
+                "x": "-16623",
+                "y": "124028",
+                "name": "Guard Praga",
+                "linktext": "Step 1.5",
+                "loc": "city"
+            },
+            "text": "Talk to Guard Praga at the western gate of the Town of Gludio. Get a Book of Praga ."
+        },
+        {
+            "props": {
+                "x": "-79256",
+                "y": "150676",
+                "name": "Priest Zigaunt",
+                "linktext": "Step 3",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Zigaunt in Einhasad Temple in Gludin Village."
+        },
+        {
+            "props": {
+                "x": "-106485",
+                "y": "233377",
+                "name": "Lionel",
+                "linktext": "Step 4",
+                "loc": ""
+            },
+            "text": "Talk to Lionel near Obelisk of Victory on the Talking Island."
+        },
+        {
+            "props": {
+                "x": "-91008",
+                "y": "248016",
+                "name": "Grand Magister Gallint",
+                "linktext": "Step 5",
+                "loc": "city"
+            },
+            "text": "Talk to Grand Magister Gallint in the School of Magic near the Talking Island Village."
+        },
+        {
+            "props": {
+                "x": "-106485",
+                "y": "233377",
+                "name": "Lionel",
+                "linktext": "Step 6",
+                "loc": ""
+            },
+            "text": "Talk to Lionel near Obelisk of Victory on the Talking Island."
+        },
+        {
+            "props": {
+                "x": "-79256",
+                "y": "150676",
+                "name": "Priest Zigaunt",
+                "linktext": "Step 7",
+                "loc": "city"
+            },
+            "text": "Talk to Priest Zigaunt in Einhasad Temple in Gludin Village and get the reward."
+        },
+        {
+            "props": {
+                "x": "-78982",
+                "y": "150830",
+                "name": "High Priestess Levian",
+                "linktext": "Reward",
+                "loc": "city"
+            },
+            "text": "When you get level 20, talk to High Priestess Levian in Einhasad Temple in the Town of Gludio to transfer your class to Cleric."
+        }
+    ]
+}
